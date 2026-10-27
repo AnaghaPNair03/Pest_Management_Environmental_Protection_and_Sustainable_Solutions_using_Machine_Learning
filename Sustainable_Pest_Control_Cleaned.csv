@@ -1,0 +1,701 @@
+pest_name,crop_type,growth_stage,location,temperature,humidity,rainfall,soil_type,soil_pH,soil_moisture,infestation_severity,sustainable_control_method,nitrogen,phosphorus,potassium
+Coffee Borer,Coffee,Vegetative,"Chikmagalur, Karnataka",25,60,5,Laterite,6.5,30,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,18,12
+Rice Hispa,Rice,Vegetative,"Bhagalpur, Bihar",28,60,5,Alluvial,6.5,20,30,Crop Rotation,25,18,12
+Rice Hispa,Rice,Vegetative,"Mysore, Karnataka",28.5,60,0,Laterite,6.8,30,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,18,12
+Groundnut Leaf Miner,Groundnut,Flowering,"Kolar, Karnataka",25,70,5,Red Soil,7.2,30,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,18,12
+Chickpea Pod Borer,Chickpea,Flowering,"Nagpur, Maharashtra",28,60,5,Black Soil,6.5,20,30,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,18,12
+Sugarcane Top Shoot Borer,Sugarcane,Vegetative,"Coimbatore, Tamil Nadu",28,80,5,Loamy,6.8,30,20,Neem Oil Spray,25,18,12
+Chickpea Pod Borer,Chickpea,Flowering,"Ludhiana, Punjab",25,70,10,Alluvial,7.2,35,15,"Companion Planting (e.g., Marigold for pest repulsion)",22,15,9
+Groundnut Leaf Miner,Groundnut,Seedling,"Nagpur, Maharashtra",32,90,0,Red Soil,5.5,40,25,"Biopesticides (e.g., Bacillus thuringiensis)",20,12,8
+Mango Hopper,Mango,Fruiting,Kerala,28,80,15,Laterite,6.2,45,30,Sticky Traps for Flying Pests,28,20,14
+Coffee Borer,Coffee,Vegetative,Assam,22,60,8,Black Soil,7.5,50,20,Garlic-Chili Spray,25,18,12
+Thrips,Tomato,Flowering,West Bengal,25,70,12,Loamy,6.8,35,15,Compost Tea Spraying,22,15,9
+Mealybugs,Coconut,Fruiting,Gujarat,28,80,5,Alluvial,7.2,30,20,Diatomaceous Earth Application,25,18,12
+Helicoverpa Armigera (Cotton Bollworm),Cotton,Vegetative,Rajasthan,32,90,0,Red Soil,5.5,40,25,"Organic Fertilizers (e.g., Vermicompost)",20,12,8
+Rice Hispa,Rice,Vegetative,"Nagpur, Maharashtra",28,60,5,Alluvial,6.5,30,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,18,12
+Helicoverpa Armigera (Cotton Bollworm),Cotton,Flowering,"Ludhiana, Punjab",32,40,0,Black Soil,7.2,25,15,Crop Rotation,22,16,11
+Diamondback Moth,Tomato,Seedling,"Coimbatore, Tamil Nadu",25,70,10,Loamy,6.8,35,30,"Mulching (e.g., Straw Mulch)",28,20,15
+Yellow Stem Borer,Sugarcane,Vegetative,"Nagpur, Maharashtra",30,50,8,Red Soil,6.2,20,25,Neem Oil Spray,24,19,13
+Spotted Pod Borer,Chickpea,Flowering,"Ludhiana, Punjab",35,45,2,Laterite,7.5,40,40,"Intercropping (e.g., Maize + Legumes)",29,22,18
+Mealybugs,Mango,Seedling,"Coimbatore, Tamil Nadu",28,65,12,Black Soil,7.3,45,35,Soap Spray (Potassium-based),26,21,14
+Groundnut Leaf Miner,Groundnut,Vegetative,"Nagpur, Maharashtra",32,55,9,Red Soil,6.3,30,20,Use of Pheromone Traps,23,17,12
+Groundnut Leaf Miner,Groundnut,Vegetative,"Nagpur, Maharashtra",25,70,5,Black Soil,6.5,25,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",30,18,12
+Spotted Pod Borer,Chickpea,Flowering,"Coimbatore, Tamil Nadu",28,80,10,Red Soil,7.2,30,15,Use of Pheromone Traps,25,20,15
+Helicoverpa Armigera (Cotton Bollworm),Cotton,Vegetative,"Ludhiana, Punjab",22,60,8,Alluvial,6.8,20,18,"Companion Planting (e.g., Marigold for pest repulsion)",35,22,18
+Brown Planthopper (BPH),Rice,Maturity,"Assam, Assam",20,90,12,Laterite,5.5,35,22,"Organic Fertilizers (e.g., Vermicompost)",40,25,20
+Coffee Borer,Coffee,Vegetative,"Karnataka, Karnataka",18,85,15,Loamy,6.2,28,19,Crop Rotation,32,24,19
+Thrips,Tomato,Flowering,"Uttar Pradesh, Uttar Pradesh",26,75,9,Sandy,7.5,22,17,Soap Spray (Potassium-based),28,21,16
+Leafhoppers,Mango,Maturity,"Kerala, Kerala",24,80,11,Black Soil,6.8,29,21,Garlic-Chili Spray,31,23,17
+White Grubs,Sugarcane,Vegetative,"West Bengal, West Bengal",27,70,6,Alluvial,6.5,24,23,Compost Tea Spraying,34,26,21
+Rice Hispa,Rice,Flowering,"Gujarat, Gujarat",29,85,14,Laterite,5.8,36,25,Adoption of Resistant Crop Varieties,38,28,22
+Sugarcane Top Shoot Borer,Sugarcane,Maturity,"Rajasthan, Rajasthan",26,75,10,Red Soil,7.1,26,24,Diatomaceous Earth Application,36,27,20
+Yellow Stem Borer,Wheat,Vegetative,"Punjab, Punjab",23,65,7,Loamy,6.3,21,20,"Mulching (e.g., Straw Mulch)",33,25,19
+Diamondback Moth,Cotton,Flowering,"Maharashtra, Maharashtra",28,80,13,Black Soil,6.9,30,26,Sticky Traps for Flying Pests,37,29,23
+Red Cotton Bug,Cotton,Maturity,"Gujarat, Gujarat",29,75,9,Red Soil,7.3,27,27,"Biopesticides (e.g., Bacillus thuringiensis)",39,30,24
+White Grubs,Rice,Vegetative,Kerala,25,80,0,Laterite,6.2,30,40,"Biopesticides (e.g., Bacillus thuringiensis)",25,18,12
+Diamondback Moth,Groundnut,Vegetative,"Coimbatore, Tamil Nadu",28,70,5,Alluvial,6.5,30,20,"Companion Planting (e.g., Marigold for pest repulsion)",18,12,8
+Diamondback Moth,Mango,Flowering,Karnataka,25,60,5,Laterite,6.5,25,20,"Companion Planting (e.g., Nasturtiums for pest repulsion)",30,20,15
+Coffee Borer,Coffee,Vegetative,"Chikmagalur, Karnataka",22,60,5,Laterite,6.2,25,30,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,20,15
+Groundnut Leaf Miner,Groundnut,Vegetative,"Aurangabad, Maharashtra",25,70,5,Black Soil,6.5,30,20,"Companion Planting (e.g., Marigold for pest repulsion)",22,18,12
+Diamondback Moth,Cotton,Flowering,"Coimbatore, Tamil Nadu",28,75,0,Alluvial,7.2,25,40,Neem Oil Spray,30,18,12
+Mango Hopper,Mango,Flowering,"Hyderabad, Telangana",28,60,5,Black Soil,6.5,30,20,Garlic-Chili Spray,25,18,12
+Sugarcane Top Shoot Borer,Sugarcane,Flowering,"Gujarat, India",28,70,5,Alluvial,6.5,30,20,Crop Rotation,25,18,12
+Coffee Borer,Coffee,Fruiting,"Karnataka, India",22,80,10,Laterite,5.5,40,30,Release of Natural Predators (Ladybugs for Aphid Control),22,16,11
+Chickpea Pod Borer,Chickpea,Maturation,"Rajasthan, India",25,60,15,Red Soil,7.5,20,40,Neem Oil Spray,20,14,9
+White Grubs,Groundnut,Flowering,"Vijayawada, Andhra Pradesh",28,60,5,Red Soil,6.5,30,20,Use of Pheromone Traps,22,18,12
+Rice Hispa,Rice,Vegetative,Kerala,22,60,5,Laterite,6.5,25,30,"Companion Planting (e.g., Marigold for pest repulsion)",22,18,12
+Sugarcane Top Shoot Borer,Sugarcane,Vegetative,"Coimbatore, Tamil Nadu",28,70,5,Alluvial,7.2,30,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,18,12
+Groundnut Leaf Miner,Groundnut,Flowering,"Kolkata, West Bengal",28,60,5,Alluvial,6.5,25,15,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",30,18,12
+Diamondback Moth,Sugarcane,Vegetative,"Coimbatore, Tamil Nadu",28,80,5,Alluvial,6.5,30,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,18,12
+Groundnut Leaf Miner,Groundnut,Vegetative,"Vijayawada, Andhra Pradesh",28,80,5,Red Soil,6.5,25,30,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",18,12,8
+Diamondback Moth,Mango,Flowering,"Kochi, Kerala",28,60,5,Red Soil,6.5,30,35,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,18,12
+Thrips,Coffee,Seedling,"Mysore, Karnataka",25,80,10,Laterite,5.5,40,20,"Companion Planting (e.g., Marigold for pest repulsion)",25,20,15
+Groundnut Leaf Miner,Groundnut,Flowering,Karnataka,28.5,70,5,Laterite,6.8,30,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,18,12
+Groundnut Leaf Miner,Groundnut,Flowering,"Guntur, Andhra Pradesh",22.5,60,5,Laterite,6.5,30,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,18,12
+White Grubs,Groundnut,Flowering,"Anantapur, Andhra Pradesh",28.5,60,5,Red Soil,6.2,30,35,Neem Oil Spray,25,18,12
+Coffee Borer,Coffee,Flowering,"Kodaikanal, Tamil Nadu",25,70,10,Laterite,6.5,30,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,18,12
+Sugarcane Top Shoot Borer,Sugarcane,Vegetative,"Nagpur, Maharashtra",28,80,5,Black Soil,7.2,40,30,Neem Oil Spray,22,20,15
+Diamondback Moth,Sugarcane,Flowering,"Nagpur, Maharashtra",28,60,5,Alluvial,7.2,30,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,18,12
+Red Cotton Bug,Chickpea,Seedling,"Ludhiana, Punjab",25,70,10,Red Soil,6.8,20,25,"Companion Planting (e.g., Marigold for pest repulsion)",22,16,11
+Yellow Stem Borer,Rice,Vegetative,"Coimbatore, Tamil Nadu",32,50,15,Black Soil,7.5,35,50,"Organic Fertilizers (e.g., Vermicompost)",28,20,15
+Helicoverpa Armigera (Cotton Bollworm),Cotton,Flowering,"Gandhinagar, Gujarat",30,65,8,Loamy,6.5,25,35,Use of Pheromone Traps,24,17,13
+Sugarcane Top Shoot Borer,Sugarcane,Vegetative,"Coimbatore, Tamil Nadu",28.5,70,5,Loamy,6.8,25,30,"Companion Planting (e.g., Marigold for pest repulsion)",25,18,12
+Groundnut Leaf Miner,Groundnut,Flowering,"Nagpur, Maharashtra",32,80,10,Sandy,7.2,20,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,15,10
+Chickpea Pod Borer,Chickpea,Seedling,"Ludhiana, Punjab",25,60,0,Alluvial,6.5,30,15,Adoption of Resistant Crop Varieties,22,16,11
+Coffee Borer,Coffee,Vegetative,Kerala,27,75,8,Laterite,7,28,25,"Organic Fertilizers (e.g., Vermicompost)",24,17,13
+Mango Hopper,Mango,Flowering,West Bengal,31,85,12,Black Soil,6.9,22,35,Diatomaceous Earth Application,26,19,14
+Thrips,Tomato,Vegetative,Gujarat,29,65,6,Red Soil,7.1,24,18,"Mulching (e.g., Straw Mulch)",23,14,9
+Sugarcane Top Shoot Borer,Sugarcane,Vegetative,"Coimbatore, Tamil Nadu",28,80,5,Alluvial,6.5,30,22,Crop Rotation,25,18,12
+Coffee Borer,Coffee,Flowering,"Kodaikanal, Tamil Nadu",20,60,10,Red Soil,5.5,25,18,"Companion Planting (e.g., Marigold for pest repulsion)",20,15,10
+Groundnut Leaf Miner,Groundnut,Seedling,"Jodhpur, Rajasthan",32,50,0,Loamy,7.5,35,15,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,16,11
+Helicoverpa Armigera (Cotton Bollworm),Cotton,Fruiting,"Nagpur, Maharashtra",25,70,15,Black Soil,6.2,40,30,Use of Pheromone Traps,28,20,14
+Chickpea Pod Borer,Chickpea,Vegetative,"Jaipur, Rajasthan",28,60,0,Loamy,7.2,25,35,Crop Rotation,22,18,12
+White Grubs,Groundnut,Flowering,"Coimbatore, Tamil Nadu",25,60,5,Alluvial,6.5,30,40,"Companion Planting (e.g., Marigold for pest repulsion)",18,12,8
+Leafhoppers,Sugarcane,Seedling,"Nagpur, Maharashtra",28,70,10,Black Soil,7.2,25,20,"Organic Fertilizers (e.g., Vermicompost)",22,18,12
+Coffee Borer,Coffee,Vegetative,Assam,20,50,15,Laterite,5.5,35,30,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",15,10,6
+Mealybugs,Mango,Flowering,Kerala,27,65,8,Red Soil,6.8,40,50,Garlic-Chili Spray,20,14,9
+Sugarcane Top Shoot Borer,Sugarcane,Seedling,Uttar Pradesh,26,55,12,Loamy,7,20,25,Compost Tea Spraying,19,13,7
+Groundnut Leaf Miner,Groundnut,Vegetative,Rajasthan,29,60,11,Alluvial,6,28,35,Sticky Traps for Flying Pests,17,11,5
+Thrips,Tomato,Flowering,West Bengal,24,50,9,Black Soil,7.5,22,45,Soap Spray (Potassium-based),21,16,11
+Chickpea Pod Borer,Chickpea,Seedling,Karnataka,25,55,7,Laterite,5.8,30,40,Crop Rotation,16,9,4
+Mango Hopper,Mango,Vegetative,Gujarat,28,65,10,Red Soil,6.9,38,35,"Mulching (e.g., Straw Mulch)",19,12,8
+Helicoverpa Armigera (Cotton Bollworm),Cotton,Flowering,Punjab,27,60,8,Loamy,7.1,25,50,Use of Pheromone Traps,20,14,10
+Brown Planthopper (BPH),Rice,Seedling,Tamil Nadu,25,50,12,Alluvial,6.2,29,30,Diatomaceous Earth Application,18,11,6
+Yellow Stem Borer,Maize,Vegetative,Uttar Pradesh,28,55,9,Black Soil,7.3,23,40,Adoption of Resistant Crop Varieties,21,15,12
+Red Cotton Bug,Cotton,Flowering,Rajasthan,29,60,11,Laterite,5.9,31,45,Soil Solarization,19,13,9
+Spotted Pod Borer,Chickpea,Seedling,Karnataka,26,55,10,Loamy,7,24,35,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,14,11
+Diamondback Moth,Cotton,Vegetative,Punjab,27,60,9,Alluvial,6.1,26,30,Sticky Traps for Flying Pests,18,10,5
+Red Cotton Bug,Cotton,Flowering,Rajasthan,29,60,11,Red Soil,6.8,32,45,Garlic-Chili Spray,19,13,9
+Mango Hopper,Mango,Vegetative,"Aurangabad, Maharashtra",28,80,5,Black Soil,6.5,30,40,Neem Oil Spray,25,20,15
+Chickpea Pod Borer,Chickpea,Flowering,"Gwalior, Madhya Pradesh",28,60,5,Alluvial,7.2,30,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,18,12
+Groundnut Leaf Miner,Groundnut,Seedling,"Hyderabad, Telangana",32,80,15,Red Soil,6.5,20,20,"Companion Planting (e.g., Marigold for pest repulsion)",20,12,8
+Mango Hopper,Mango,Fruiting,"Kolkata, West Bengal",25,70,10,Black Soil,5.5,25,35,Diatomaceous Earth Application,22,15,10
+Helicoverpa Armigera (Cotton Bollworm),Cotton,Vegetative,"Jaipur, Rajasthan",35,50,0,Loamy,7.5,15,45,Sticky Traps for Flying Pests,18,10,6
+Rice Hispa,Rice,Maturity,"Patna, Bihar",30,60,20,Laterite,6.2,35,30,Garlic-Chili Spray,28,20,14
+Spotted Pod Borer,Chickpea,Flowering,"Gorakhpur, Uttar Pradesh",28,55,5,Alluvial,7,25,40,Compost Tea Spraying,24,16,9
+Coffee Borer,Coffee,Fruiting,"Kochi, Kerala",25,65,10,Red Soil,6,20,35,Adoption of Resistant Crop Varieties,21,13,7
+Sugarcane Top Shoot Borer,Sugarcane,Vegetative,"Lucknow, Uttar Pradesh",32,55,15,Loamy,7,20,40,"Organic Fertilizers (e.g., Vermicompost)",26,19,11
+Thrips,Tomato,Fruiting,"Nashik, Maharashtra",28,60,10,Black Soil,5.5,25,30,Use of Pheromone Traps,23,14,8
+Mealybugs,Mango,Flowering,"Kozhikode, Kerala",25,65,10,Red Soil,6,20,35,"Mulching (e.g., Straw Mulch)",20,12,6
+Brown Planthopper (BPH),Rice,Maturity,"Guwahati, Assam",30,55,20,Laterite,6.2,35,30,Soap Spray (Potassium-based),25,17,10
+Leafhoppers,Groundnut,Seedling,"Bhopal, Madhya Pradesh",32,70,15,Red Soil,6.5,20,25,Crop Rotation,22,15,9
+Coffee Borer,Sugarcane,Vegetative,"Nagpur, Maharashtra",27.7,40,14,Laterite,6.8,27,50,Diatomaceous Earth Application,21,11,17
+Leafhoppers,Rice,Vegetative,Karnataka,32.7,82,1,Loamy,6.9,18,47,Adoption of Resistant Crop Varieties,22,16,29
+White Grubs,Sugarcane,Flowering,"Vijayawada, Andhra Pradesh",30.1,47,4,Laterite,7.1,29,19,Sticky Traps for Flying Pests,18,14,31
+Mealybugs,Sugarcane,Vegetative,Kerala,22.4,53,7,Alluvial,5.7,28,50,Sticky Traps for Flying Pests,19,14,29
+Red Cotton Bug,Coffee,Flowering,West Bengal,30.3,85,8,Black Soil,6,15,24,"Companion Planting (e.g., Marigold for pest repulsion)",25,21,16
+Thrips,Coffee,Vegetative,"Ludhiana, Punjab",27.5,85,16,Alluvial,6.8,17,35,"Organic Fertilizers (e.g., Vermicompost)",22,24,33
+Chickpea Pod Borer,Mango,Seedling,"Nagpur, Maharashtra",20.2,42,2,Loamy,7.4,20,25,Use of Pheromone Traps,17,12,28
+White Grubs,Groundnut,Fruiting,"Chikmagalur, Karnataka",34.2,45,12,Red Soil,6.8,29,36,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",29,14,24
+Coffee Borer,Groundnut,Seedling,Rajasthan,21.8,82,3,Loamy,5.5,30,26,Use of Pheromone Traps,15,12,31
+Chickpea Pod Borer,Coffee,Flowering,"Coimbatore, Tamil Nadu",33,41,6,Laterite,5.6,37,18,Adoption of Resistant Crop Varieties,29,13,27
+Rice Hispa,Coffee,Flowering,"Coimbatore, Tamil Nadu",20,84,2,Red Soil,6.6,31,32,Garlic-Chili Spray,20,18,24
+Mango Hopper,Chickpea,Vegetative,Kerala,21.7,68,20,Black Soil,5.6,18,49,Sticky Traps for Flying Pests,25,16,17
+Chickpea Pod Borer,Rice,Seedling,"Bhopal, Madhya Pradesh",29.3,84,2,Red Soil,5.7,35,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",26,18,16
+Diamondback Moth,Cotton,Flowering,"Jaipur, Rajasthan",20.8,69,12,Loamy,6,23,25,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",24,11,17
+Chickpea Pod Borer,Groundnut,Seedling,"Nagpur, Maharashtra",31.9,45,16,Alluvial,5.6,30,22,Neem Oil Spray,25,10,32
+Leafhoppers,Mango,Vegetative,"Coimbatore, Tamil Nadu",34.5,89,9,Alluvial,5.9,18,31,Garlic-Chili Spray,25,10,28
+Leafhoppers,Mango,Seedling,"Lucknow, Uttar Pradesh",18.1,44,18,Laterite,6.5,35,20,Crop Rotation,27,21,31
+Diamondback Moth,Coconut,Flowering,Rajasthan,34.9,67,10,Laterite,6.5,50,15,Compost Tea Spraying,26,10,32
+Chickpea Pod Borer,Sugarcane,Seedling,Kerala,24.5,65,5,Laterite,7.1,46,18,Soap Spray (Potassium-based),21,10,32
+Chickpea Pod Borer,Coffee,Fruiting,"Kolkata, West Bengal",27.9,47,2,Black Soil,6.4,20,34,Garlic-Chili Spray,24,21,25
+Thrips,Groundnut,Maturity,Kerala,27.8,84,11,Alluvial,6.5,41,32,Soap Spray (Potassium-based),26,14,21
+Coffee Borer,Sugarcane,Flowering,Kerala,24.6,52,8,Loamy,7.4,22,16,Adoption of Resistant Crop Varieties,23,10,22
+Diamondback Moth,Rice,Vegetative,"Nagpur, Maharashtra",25.7,61,6,Red Soil,5.8,19,29,Use of Pheromone Traps,24,14,30
+Diamondback Moth,Coffee,Maturity,"Jaipur, Rajasthan",33.6,68,16,Loamy,7,46,24,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,13,34
+White Grubs,Cotton,Seedling,Gujarat,25.4,64,1,Red Soil,5.9,26,39,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",21,23,30
+Brown Planthopper (BPH),Coffee,Seedling,"Bhopal, Madhya Pradesh",32,56,15,Laterite,6.5,21,50,Neem Oil Spray,15,21,29
+Groundnut Leaf Miner,Chickpea,Flowering,Rajasthan,22.2,54,9,Black Soil,7.1,42,17,"Companion Planting (e.g., Marigold for pest repulsion)",20,18,32
+Diamondback Moth,Groundnut,Flowering,"Guwahati, Assam",19.3,86,15,Alluvial,6,38,50,Soap Spray (Potassium-based),29,24,33
+Groundnut Leaf Miner,Chickpea,Fruiting,"Kolar, Karnataka",31.1,81,5,Loamy,7,27,30,"Mulching (e.g., Straw Mulch)",20,22,17
+Groundnut Leaf Miner,Cotton,Flowering,Uttar Pradesh,26.8,78,6,Black Soil,7.2,41,19,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",24,21,17
+Groundnut Leaf Miner,Sugarcane,Flowering,Rajasthan,23.8,87,4,Red Soil,6.6,15,20,Sticky Traps for Flying Pests,16,14,23
+Brown Planthopper (BPH),Chickpea,Maturity,Kerala,32.3,46,11,Black Soil,6.5,45,43,Adoption of Resistant Crop Varieties,22,17,18
+Chickpea Pod Borer,Coconut,Flowering,"Kolkata, West Bengal",30,85,8,Black Soil,7.1,34,20,Sticky Traps for Flying Pests,22,20,19
+Brown Planthopper (BPH),Sugarcane,Vegetative,"Chikmagalur, Karnataka",23.4,60,16,Red Soil,6.8,31,15,"Companion Planting (e.g., Marigold for pest repulsion)",28,20,32
+Diamondback Moth,Chickpea,Seedling,"Kochi, Kerala",24,41,8,Red Soil,6,20,43,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,10,34
+Helicoverpa Armigera (Cotton Bollworm),Coffee,Maturity,"Ludhiana, Punjab",23.2,90,1,Laterite,6.9,50,20,Diatomaceous Earth Application,29,19,22
+Yellow Stem Borer,Sugarcane,Flowering,Karnataka,29.7,63,4,Alluvial,7.2,15,44,"Companion Planting (e.g., Marigold for pest repulsion)",25,15,25
+Groundnut Leaf Miner,Cotton,Flowering,"Nagpur, Maharashtra",28,42,1,Black Soil,5.9,30,49,Diatomaceous Earth Application,18,23,17
+Yellow Stem Borer,Rice,Flowering,"Bhopal, Madhya Pradesh",27,83,18,Black Soil,6.9,32,31,"Organic Fertilizers (e.g., Vermicompost)",23,12,29
+Groundnut Leaf Miner,Sugarcane,Fruiting,"Ludhiana, Punjab",24,71,12,Alluvial,6.7,31,37,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",21,22,24
+Coffee Borer,Coffee,Seedling,"Maharashtra, Maharashtra",28.6,55,11,Red Soil,5.8,32,35,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",29,24,21
+Chickpea Pod Borer,Sugarcane,Seedling,Rajasthan,33.8,84,2,Red Soil,6.7,29,28,"Biopesticides (e.g., Bacillus thuringiensis)",22,16,28
+Helicoverpa Armigera (Cotton Bollworm),Groundnut,Vegetative,"Nagpur, Maharashtra",22,57,10,Red Soil,6.5,34,23,Diatomaceous Earth Application,21,15,31
+Diamondback Moth,Groundnut,Vegetative,"Vijayawada, Andhra Pradesh",33.6,84,6,Red Soil,6.6,25,17,Neem Oil Spray,27,15,29
+Yellow Stem Borer,Rice,Flowering,"Patna, Bihar",33.9,89,19,Black Soil,6.5,20,35,Use of Pheromone Traps,24,20,24
+Thrips,Sugarcane,Vegetative,"Patna, Bihar",34.3,50,11,Loamy,6.2,44,27,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,19,30
+Groundnut Leaf Miner,Cotton,Seedling,"Nagpur, Maharashtra",21.7,50,0,Alluvial,6.3,15,19,Compost Tea Spraying,26,23,29
+Diamondback Moth,Cotton,Vegetative,Karnataka,30.8,70,10,Sandy,6.1,28,24,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",18,24,29
+White Grubs,Cotton,Vegetative,"Aurangabad, Maharashtra",25.2,64,11,Red Soil,6.1,16,50,"Biopesticides (e.g., Bacillus thuringiensis)",22,21,22
+Chickpea Pod Borer,Rice,Vegetative,"Coimbatore, Tamil Nadu",21.3,52,18,Alluvial,6.3,29,17,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,16,17
+Yellow Stem Borer,Groundnut,Vegetative,"Coimbatore, Tamil Nadu",27.2,47,15,Black Soil,6.8,38,37,Use of Pheromone Traps,20,20,15
+Mango Hopper,Mango,Seedling,"Karnataka, India",20.8,70,6,Black Soil,5.9,27,33,Sticky Traps for Flying Pests,25,20,23
+Red Cotton Bug,Rice,Vegetative,"Gorakhpur, Uttar Pradesh",29.8,53,19,Red Soil,7.2,16,25,Compost Tea Spraying,18,20,29
+Mango Hopper,Sugarcane,Vegetative,"Bhopal, Madhya Pradesh",33,88,6,Alluvial,7.4,44,31,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",16,12,21
+Red Cotton Bug,Groundnut,Flowering,"Kolkata, West Bengal",30.3,55,9,Laterite,6.6,45,23,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,16,34
+Groundnut Leaf Miner,Wheat,Vegetative,"Nagpur, Maharashtra",23,53,9,Laterite,5.9,34,21,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",16,10,23
+Rice Hispa,Mango,Vegetative,Gujarat,27.7,83,6,Alluvial,5.6,49,32,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",26,24,32
+Leafhoppers,Groundnut,Flowering,West Bengal,22.9,63,6,Alluvial,7.3,15,42,Soil Solarization,26,24,19
+Sugarcane Top Shoot Borer,Coffee,Flowering,"Karnataka, Karnataka",32.6,52,8,Alluvial,7.1,29,46,"Companion Planting (e.g., Marigold for pest repulsion)",23,17,16
+Coffee Borer,Cotton,Flowering,"Coimbatore, Tamil Nadu",27.5,42,6,Alluvial,5.8,35,27,Garlic-Chili Spray,29,13,25
+Groundnut Leaf Miner,Groundnut,Maturation,Kerala,28.4,64,16,Black Soil,7,49,32,Adoption of Resistant Crop Varieties,24,15,24
+Brown Planthopper (BPH),Mango,Flowering,"Vijayawada, Andhra Pradesh",24.9,52,18,Laterite,7.1,17,43,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",24,12,23
+Diamondback Moth,Mango,Flowering,"Vijayawada, Andhra Pradesh",30,79,7,Laterite,5.7,45,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,18,32
+Sugarcane Top Shoot Borer,Groundnut,Maturity,"Coimbatore, Tamil Nadu",25.8,63,0,Alluvial,5.6,17,15,"Mulching (e.g., Straw Mulch)",17,24,21
+Groundnut Leaf Miner,Groundnut,Vegetative,Uttar Pradesh,22.3,66,17,Alluvial,5.7,50,23,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",29,21,28
+Coffee Borer,Coffee,Vegetative,"Coimbatore, Tamil Nadu",27.6,86,2,Black Soil,7.4,24,50,Use of Pheromone Traps,28,23,21
+Thrips,Mango,Flowering,Kerala,30.4,63,10,Black Soil,6.9,25,48,Diatomaceous Earth Application,24,16,30
+Rice Hispa,Tomato,Seedling,Rajasthan,20.6,60,2,Red Soil,7.4,18,49,"Organic Fertilizers (e.g., Vermicompost)",16,16,32
+Coffee Borer,Groundnut,Vegetative,Rajasthan,21.3,61,9,Red Soil,7,17,32,"Mulching (e.g., Straw Mulch)",15,24,19
+Spotted Pod Borer,Chickpea,Flowering,Kerala,18.6,50,5,Red Soil,6,35,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,15,26
+Mango Hopper,Chickpea,Flowering,Kerala,34.8,74,3,Red Soil,5.9,41,47,Sticky Traps for Flying Pests,19,11,19
+Helicoverpa Armigera (Cotton Bollworm),Sugarcane,Maturity,Gujarat,18.9,81,16,Red Soil,7.2,36,25,Soap Spray (Potassium-based),15,17,30
+Groundnut Leaf Miner,Tomato,Flowering,"Nagpur, Maharashtra",25.4,81,0,Laterite,7.2,44,49,"Companion Planting (e.g., Marigold for pest repulsion)",29,10,25
+Groundnut Leaf Miner,Sugarcane,Vegetative,"Bhagalpur, Bihar",20.4,81,18,Laterite,5.5,28,45,Use of Pheromone Traps,18,16,28
+Groundnut Leaf Miner,Rice,Flowering,"Chikmagalur, Karnataka",30.9,89,5,Black Soil,5.5,17,36,Neem Oil Spray,15,10,29
+Groundnut Leaf Miner,Tomato,Flowering,Karnataka,31,71,16,Laterite,6.2,42,35,Garlic-Chili Spray,16,22,29
+Sugarcane Top Shoot Borer,Tomato,Vegetative,"Nagpur, Maharashtra",22.1,59,2,Loamy,6.9,40,38,Sticky Traps for Flying Pests,17,21,30
+Chickpea Pod Borer,Cotton,Fruiting,"Chikmagalur, Karnataka",21.6,41,18,Alluvial,6.6,46,32,Diatomaceous Earth Application,16,10,31
+Sugarcane Top Shoot Borer,Groundnut,Fruiting,"Kodaikanal, Tamil Nadu",21.1,52,3,Laterite,7.5,25,28,Neem Oil Spray,26,18,27
+Sugarcane Top Shoot Borer,Rice,Vegetative,"Kodaikanal, Tamil Nadu",25.4,61,20,Laterite,7.2,34,26,"Companion Planting (e.g., Marigold for pest repulsion)",22,12,18
+Sugarcane Top Shoot Borer,Chickpea,Flowering,Kerala,26.7,59,19,Red Soil,7.1,23,27,Adoption of Resistant Crop Varieties,29,20,18
+Sugarcane Top Shoot Borer,Sugarcane,Vegetative,"Chikmagalur, Karnataka",27,50,16,Red Soil,6.4,27,34,"Intercropping (e.g., Maize + Legumes)",25,19,29
+Chickpea Pod Borer,Sugarcane,Seedling,"Karnataka, India",18.6,57,10,Black Soil,6.3,30,29,Use of Pheromone Traps,28,19,17
+Coffee Borer,Groundnut,Flowering,"Coimbatore, Tamil Nadu",22.3,59,6,Black Soil,6.8,41,31,Garlic-Chili Spray,27,16,16
+Mango Hopper,Groundnut,Flowering,"Coimbatore, Tamil Nadu",24.7,72,4,Laterite,6.4,46,49,Diatomaceous Earth Application,27,15,28
+Groundnut Leaf Miner,Mango,Flowering,"Nagpur, Maharashtra",18.3,43,15,Red Soil,6.5,41,39,Use of Pheromone Traps,16,14,16
+Spotted Pod Borer,Cotton,Maturity,"Nagpur, Maharashtra",20.2,51,1,Red Soil,6.6,36,24,Use of Pheromone Traps,22,10,26
+Rice Hispa,Rice,Flowering,"Assam, Assam",21.1,66,8,Loamy,5.6,15,20,"Biopesticides (e.g., Bacillus thuringiensis)",21,23,18
+White Grubs,Rice,Seedling,Punjab,32.6,67,4,Alluvial,7.2,18,34,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",16,12,29
+Thrips,Coffee,Seedling,"Aurangabad, Maharashtra",31.2,47,7,Laterite,7.3,38,16,Garlic-Chili Spray,25,17,26
+Groundnut Leaf Miner,Mango,Flowering,"Kolkata, West Bengal",27.8,76,7,Black Soil,5.5,49,34,"Companion Planting (e.g., Nasturtiums for pest repulsion)",26,20,23
+Groundnut Leaf Miner,Cotton,Vegetative,"Nagpur, Maharashtra",34.4,66,16,Black Soil,6.3,20,15,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",18,16,32
+Groundnut Leaf Miner,Sugarcane,Vegetative,"Jodhpur, Rajasthan",28.8,56,14,Laterite,7.3,17,21,Crop Rotation,15,11,26
+Coffee Borer,Mango,Flowering,"Coimbatore, Tamil Nadu",22.1,69,3,Red Soil,6.9,39,18,"Companion Planting (e.g., Marigold for pest repulsion)",25,19,22
+Mealybugs,Groundnut,Vegetative,"Kodaikanal, Tamil Nadu",21.1,62,0,Sandy,6,49,42,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,21,22
+Helicoverpa Armigera (Cotton Bollworm),Mango,Vegetative,"Nagpur, Maharashtra",29.5,60,9,Loamy,6.5,44,49,Garlic-Chili Spray,18,11,25
+Brown Planthopper (BPH),Chickpea,Seedling,"Gorakhpur, Uttar Pradesh",34.3,62,13,Alluvial,6.5,41,45,Use of Pheromone Traps,23,21,32
+Sugarcane Top Shoot Borer,Rice,Flowering,"Nagpur, Maharashtra",32.6,74,16,Black Soil,7,20,36,Diatomaceous Earth Application,22,21,15
+Diamondback Moth,Chickpea,Vegetative,"Kozhikode, Kerala",29.9,88,13,Black Soil,6.7,35,36,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,18,29
+Chickpea Pod Borer,Sugarcane,Flowering,West Bengal,23.4,72,8,Red Soil,6.9,47,47,Diatomaceous Earth Application,15,15,17
+Sugarcane Top Shoot Borer,Mango,Flowering,"Ludhiana, Punjab",25.5,58,5,Loamy,5.9,43,22,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,17,30
+Chickpea Pod Borer,Sugarcane,Fruiting,"Kerala, Kerala",24.6,86,13,Red Soil,5.8,30,20,Use of Pheromone Traps,26,13,33
+Coffee Borer,Mango,Flowering,"Bhagalpur, Bihar",23.6,52,7,Laterite,5.7,20,27,"Companion Planting (e.g., Marigold for pest repulsion)",29,16,25
+Groundnut Leaf Miner,Cotton,Flowering,"Karnataka, India",34.4,67,10,Red Soil,7.1,29,37,Diatomaceous Earth Application,27,11,24
+Mealybugs,Sugarcane,Vegetative,Kerala,28.4,78,8,Laterite,7.3,21,33,Compost Tea Spraying,15,15,24
+Diamondback Moth,Chickpea,Flowering,"Coimbatore, Tamil Nadu",26.7,81,6,Black Soil,7.5,23,24,Adoption of Resistant Crop Varieties,18,18,17
+Helicoverpa Armigera (Cotton Bollworm),Groundnut,Vegetative,"Nagpur, Maharashtra",32.3,82,0,Red Soil,5.8,27,47,Adoption of Resistant Crop Varieties,16,24,22
+Chickpea Pod Borer,Groundnut,Seedling,"Mysore, Karnataka",19.3,77,13,Alluvial,6.1,50,45,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",16,22,34
+Mealybugs,Wheat,Flowering,"Coimbatore, Tamil Nadu",31.6,74,13,Red Soil,5.6,21,50,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,17,18
+Mango Hopper,Sugarcane,Flowering,"Chikmagalur, Karnataka",21.6,53,13,Laterite,5.8,17,38,Garlic-Chili Spray,23,16,19
+Rice Hispa,Sugarcane,Seedling,Rajasthan,26.9,77,9,Black Soil,7,43,22,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",26,16,25
+Groundnut Leaf Miner,Sugarcane,Maturity,"Coimbatore, Tamil Nadu",18.5,81,17,Black Soil,6.2,35,30,Sticky Traps for Flying Pests,28,20,32
+Groundnut Leaf Miner,Groundnut,Flowering,West Bengal,25.1,52,2,Sandy,5.9,16,48,Use of Pheromone Traps,20,16,33
+Coffee Borer,Cotton,Vegetative,Rajasthan,32.9,50,7,Red Soil,7.4,28,49,Compost Tea Spraying,19,20,26
+Helicoverpa Armigera (Cotton Bollworm),Cotton,Flowering,"Jodhpur, Rajasthan",33.3,70,1,Loamy,5.8,29,37,Sticky Traps for Flying Pests,26,16,21
+Leafhoppers,Rice,Vegetative,"Gorakhpur, Uttar Pradesh",30.6,77,10,Red Soil,7.1,46,21,Use of Pheromone Traps,29,20,25
+Sugarcane Top Shoot Borer,Mango,Flowering,"Rajasthan, India",26,87,14,Laterite,5.9,49,24,Use of Pheromone Traps,19,20,34
+Rice Hispa,Coffee,Flowering,"Gandhinagar, Gujarat",25.7,67,0,Laterite,6.8,27,49,"Companion Planting (e.g., Marigold for pest repulsion)",28,21,32
+Rice Hispa,Chickpea,Seedling,"Coimbatore, Tamil Nadu",18.9,63,14,Alluvial,6.7,35,50,Use of Pheromone Traps,29,17,32
+Groundnut Leaf Miner,Chickpea,Seedling,"Bhagalpur, Bihar",23.2,85,9,Loamy,7,33,47,Soil Solarization,21,10,29
+Coffee Borer,Chickpea,Seedling,Gujarat,25.4,75,15,Loamy,6.7,21,27,Crop Rotation,26,16,20
+Sugarcane Top Shoot Borer,Groundnut,Vegetative,"Kolar, Karnataka",21.1,79,8,Red Soil,7,46,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,20,28
+White Grubs,Rice,Flowering,Punjab,31.1,51,6,Black Soil,6.4,32,23,Neem Oil Spray,23,24,27
+Rice Hispa,Cotton,Seedling,"Ludhiana, Punjab",18.3,87,5,Black Soil,6.9,36,40,Soap Spray (Potassium-based),29,23,17
+Coffee Borer,Sugarcane,Maturity,"Nagpur, Maharashtra",30.7,42,14,Red Soil,5.9,49,32,"Organic Fertilizers (e.g., Vermicompost)",23,11,33
+White Grubs,Sugarcane,Seedling,"Nagpur, Maharashtra",21.5,88,2,Loamy,5.9,33,15,"Companion Planting (e.g., Nasturtiums for pest repulsion)",27,13,29
+Spotted Pod Borer,Rice,Flowering,"Hyderabad, Telangana",29.7,67,8,Black Soil,6.6,20,21,Adoption of Resistant Crop Varieties,28,23,18
+Red Cotton Bug,Mango,Vegetative,"Coimbatore, Tamil Nadu",32.9,54,4,Red Soil,6.2,35,40,Diatomaceous Earth Application,15,22,33
+Helicoverpa Armigera (Cotton Bollworm),Chickpea,Fruiting,"Assam, Assam",19,50,10,Black Soil,7,22,35,Adoption of Resistant Crop Varieties,17,14,19
+Chickpea Pod Borer,Sugarcane,Vegetative,Rajasthan,27.2,72,20,Alluvial,5.9,27,32,"Mulching (e.g., Straw Mulch)",26,23,31
+Mango Hopper,Groundnut,Vegetative,"Punjab, Punjab",24.2,55,4,Black Soil,5.5,43,47,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",15,10,19
+Chickpea Pod Borer,Chickpea,Seedling,Karnataka,30.8,80,16,Red Soil,6,18,34,"Companion Planting (e.g., Marigold for pest repulsion)",22,13,23
+Sugarcane Top Shoot Borer,Cotton,Vegetative,"Mysore, Karnataka",33.9,59,2,Black Soil,6.9,30,47,"Companion Planting (e.g., Marigold for pest repulsion)",27,22,23
+White Grubs,Mango,Flowering,"Ludhiana, Punjab",19.9,87,17,Laterite,5.8,20,48,Diatomaceous Earth Application,21,11,34
+Sugarcane Top Shoot Borer,Cotton,Vegetative,"Coimbatore, Tamil Nadu",22.7,75,8,Alluvial,6.3,25,44,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,24,25
+Coffee Borer,Chickpea,Flowering,"Kozhikode, Kerala",19.4,42,8,Black Soil,6.3,18,39,Compost Tea Spraying,20,14,20
+Yellow Stem Borer,Sugarcane,Seedling,Kerala,22.4,47,11,Alluvial,7,30,39,Neem Oil Spray,25,17,25
+Coffee Borer,Groundnut,Seedling,Assam,19,61,13,Black Soil,6,46,46,"Biopesticides (e.g., Bacillus thuringiensis)",20,10,33
+White Grubs,Cotton,Seedling,"Nashik, Maharashtra",29.6,73,2,Loamy,7.1,26,27,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",15,13,33
+Diamondback Moth,Rice,Flowering,"Gujarat, Gujarat",26,51,5,Laterite,7.1,38,24,"Mulching (e.g., Straw Mulch)",23,16,21
+Yellow Stem Borer,Chickpea,Maturity,"Ludhiana, Punjab",32.6,57,19,Alluvial,5.7,16,49,"Companion Planting (e.g., Marigold for pest repulsion)",24,16,26
+Sugarcane Top Shoot Borer,Chickpea,Seedling,"Kodaikanal, Tamil Nadu",22.8,46,6,Black Soil,6.9,18,27,Crop Rotation,19,10,22
+Diamondback Moth,Chickpea,Fruiting,"Punjab, Punjab",21.4,43,14,Sandy,6,30,45,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,18,34
+Diamondback Moth,Groundnut,Maturity,West Bengal,25,46,12,Alluvial,6.4,19,39,"Organic Fertilizers (e.g., Vermicompost)",26,14,31
+Rice Hispa,Groundnut,Vegetative,"Mysore, Karnataka",32.4,43,4,Black Soil,5.7,43,38,Compost Tea Spraying,29,11,31
+Mango Hopper,Mango,Seedling,"Karnataka, India",24.1,45,15,Red Soil,6.1,37,49,Garlic-Chili Spray,19,18,31
+Rice Hispa,Mango,Vegetative,"Guntur, Andhra Pradesh",26.3,41,5,Red Soil,6.9,36,27,"Biopesticides (e.g., Bacillus thuringiensis)",26,14,19
+Groundnut Leaf Miner,Chickpea,Fruiting,Punjab,33.2,86,16,Loamy,5.9,40,50,"Biopesticides (e.g., Bacillus thuringiensis)",19,15,21
+Yellow Stem Borer,Mango,Flowering,"Nagpur, Maharashtra",29.1,41,17,Alluvial,7.5,42,49,Crop Rotation,24,10,33
+Rice Hispa,Tomato,Flowering,Uttar Pradesh,20.1,82,10,Alluvial,6.7,25,35,"Mulching (e.g., Straw Mulch)",16,20,29
+Diamondback Moth,Sugarcane,Seedling,Karnataka,18.6,67,0,Sandy,7.1,46,38,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,14,25
+Sugarcane Top Shoot Borer,Sugarcane,Fruiting,Gujarat,24.9,59,7,Red Soil,5.6,47,41,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,18,30
+Mango Hopper,Mango,Flowering,"Uttar Pradesh, Uttar Pradesh",29.3,60,20,Laterite,6.9,16,42,Garlic-Chili Spray,28,21,27
+Rice Hispa,Coffee,Seedling,"Nagpur, Maharashtra",20.6,76,16,Alluvial,6.2,31,34,"Organic Fertilizers (e.g., Vermicompost)",23,21,16
+Helicoverpa Armigera (Cotton Bollworm),Coffee,Vegetative,West Bengal,26.2,49,9,Laterite,7,34,27,Neem Oil Spray,21,12,20
+Spotted Pod Borer,Rice,Vegetative,"Maharashtra, Maharashtra",28.6,90,5,Loamy,6.6,25,24,Soap Spray (Potassium-based),23,19,19
+White Grubs,Coffee,Flowering,"Nagpur, Maharashtra",34.9,44,3,Alluvial,6.4,38,23,Soap Spray (Potassium-based),25,24,25
+Groundnut Leaf Miner,Coffee,Flowering,"Kolkata, West Bengal",33,63,18,Loamy,6,15,33,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,10,23
+Helicoverpa Armigera (Cotton Bollworm),Coffee,Vegetative,West Bengal,34.4,83,14,Loamy,5.7,47,31,Garlic-Chili Spray,18,16,30
+Coffee Borer,Sugarcane,Vegetative,Punjab,24.3,75,17,Alluvial,7.3,34,29,Neem Oil Spray,29,24,34
+Diamondback Moth,Cotton,Seedling,"Vijayawada, Andhra Pradesh",34.1,49,10,Loamy,6.1,39,20,"Companion Planting (e.g., Marigold for pest repulsion)",29,23,30
+Diamondback Moth,Chickpea,Vegetative,Gujarat,26.3,71,15,Alluvial,6.7,37,19,"Mulching (e.g., Straw Mulch)",26,17,19
+Thrips,Mango,Vegetative,"Kodaikanal, Tamil Nadu",31.2,61,13,Red Soil,7.3,30,48,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,16,26
+Chickpea Pod Borer,Mango,Vegetative,"Kochi, Kerala",19.9,85,16,Black Soil,5.6,31,47,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,18,16
+Coffee Borer,Coffee,Vegetative,Gujarat,33.1,51,3,Black Soil,7.2,29,45,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",17,19,30
+Chickpea Pod Borer,Groundnut,Vegetative,"Gwalior, Madhya Pradesh",18.8,61,0,Laterite,5.7,25,40,Diatomaceous Earth Application,15,12,26
+Chickpea Pod Borer,Groundnut,Vegetative,"Nagpur, Maharashtra",30.9,71,0,Black Soil,7.4,33,43,Use of Pheromone Traps,18,18,27
+Chickpea Pod Borer,Coffee,Vegetative,"Coimbatore, Tamil Nadu",18.8,71,4,Laterite,6.2,18,25,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,23,33
+Helicoverpa Armigera (Cotton Bollworm),Mango,Vegetative,Karnataka,33.6,51,18,Laterite,5.9,20,34,"Companion Planting (e.g., Marigold for pest repulsion)",24,23,21
+Coffee Borer,Sugarcane,Seedling,"Kodaikanal, Tamil Nadu",21.3,53,15,Red Soil,6.7,31,44,Neem Oil Spray,25,14,33
+Groundnut Leaf Miner,Rice,Vegetative,"Nagpur, Maharashtra",19,74,3,Black Soil,5.8,32,35,"Biopesticides (e.g., Bacillus thuringiensis)",25,15,34
+Chickpea Pod Borer,Coffee,Vegetative,"Aurangabad, Maharashtra",28.6,83,1,Loamy,5.7,48,25,Crop Rotation,26,11,16
+Thrips,Groundnut,Vegetative,"Gorakhpur, Uttar Pradesh",27.7,55,11,Alluvial,6,49,24,Neem Oil Spray,23,13,34
+Helicoverpa Armigera (Cotton Bollworm),Chickpea,Flowering,Kerala,32.7,45,9,Black Soil,6.2,43,50,"Biopesticides (e.g., Bacillus thuringiensis)",20,17,21
+Groundnut Leaf Miner,Mango,Vegetative,"Nagpur, Maharashtra",27.2,86,5,Loamy,5.8,20,49,Crop Rotation,29,16,17
+Diamondback Moth,Chickpea,Vegetative,"Nagpur, Maharashtra",30.2,80,1,Loamy,6.2,46,21,Sticky Traps for Flying Pests,21,21,29
+Helicoverpa Armigera (Cotton Bollworm),Groundnut,Flowering,West Bengal,28.5,42,2,Black Soil,6.6,41,15,Sticky Traps for Flying Pests,24,12,21
+Leafhoppers,Chickpea,Maturity,"Ludhiana, Punjab",22.3,82,4,Alluvial,6.3,36,22,Soil Solarization,26,23,22
+Leafhoppers,Rice,Flowering,"Mysore, Karnataka",31.7,87,18,Alluvial,6.7,19,42,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,17,26
+Mealybugs,Sugarcane,Fruiting,West Bengal,25.4,68,18,Black Soil,7.5,29,48,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",24,17,34
+Groundnut Leaf Miner,Cotton,Seedling,"Maharashtra, Maharashtra",24.8,87,5,Loamy,5.7,30,17,Use of Pheromone Traps,23,17,26
+Coffee Borer,Mango,Flowering,"Kolar, Karnataka",19.7,80,10,Laterite,6.8,18,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",18,16,27
+Sugarcane Top Shoot Borer,Mango,Seedling,"Coimbatore, Tamil Nadu",33.3,52,8,Red Soil,7.3,17,37,"Companion Planting (e.g., Nasturtiums for pest repulsion)",22,15,18
+Coffee Borer,Groundnut,Vegetative,"Aurangabad, Maharashtra",23.3,74,6,Loamy,6.3,15,31,Compost Tea Spraying,26,16,19
+Groundnut Leaf Miner,Groundnut,Seedling,"Chikmagalur, Karnataka",26.8,84,1,Black Soil,6.1,26,49,Use of Pheromone Traps,24,19,22
+Yellow Stem Borer,Tomato,Vegetative,"Gujarat, Gujarat",24,54,6,Alluvial,7.3,15,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",24,21,27
+Helicoverpa Armigera (Cotton Bollworm),Sugarcane,Seedling,Rajasthan,20.2,45,6,Laterite,5.8,35,29,Adoption of Resistant Crop Varieties,19,19,19
+White Grubs,Groundnut,Vegetative,"Kochi, Kerala",26.8,81,7,Loamy,6.9,20,33,Crop Rotation,24,21,32
+Coffee Borer,Mango,Flowering,Rajasthan,18.2,60,2,Alluvial,6.6,20,36,"Mulching (e.g., Straw Mulch)",23,21,29
+Sugarcane Top Shoot Borer,Coffee,Vegetative,"Nagpur, Maharashtra",29.5,67,1,Red Soil,6,38,32,Use of Pheromone Traps,19,10,24
+Coffee Borer,Chickpea,Vegetative,"Jaipur, Rajasthan",28.4,56,20,Black Soil,6.9,46,24,Use of Pheromone Traps,20,17,20
+Chickpea Pod Borer,Rice,Vegetative,"Guwahati, Assam",34.3,69,7,Black Soil,6.7,38,46,Sticky Traps for Flying Pests,24,14,28
+Diamondback Moth,Tomato,Fruiting,"Kozhikode, Kerala",30,77,6,Laterite,6.8,35,23,Use of Pheromone Traps,20,11,20
+Leafhoppers,Coffee,Flowering,"West Bengal, West Bengal",27.3,74,19,Black Soil,5.6,29,45,"Companion Planting (e.g., Marigold for pest repulsion)",27,19,15
+Chickpea Pod Borer,Sugarcane,Vegetative,Gujarat,24.4,66,14,Laterite,6.1,42,26,"Companion Planting (e.g., Marigold for pest repulsion)",27,17,27
+Red Cotton Bug,Mango,Vegetative,"Coimbatore, Tamil Nadu",31.9,43,19,Red Soil,6.5,40,26,"Companion Planting (e.g., Marigold for pest repulsion)",19,14,31
+Diamondback Moth,Chickpea,Maturity,"Jodhpur, Rajasthan",25.3,44,1,Loamy,7.2,24,18,Sticky Traps for Flying Pests,29,16,29
+Yellow Stem Borer,Groundnut,Seedling,Uttar Pradesh,26.8,56,17,Alluvial,6.5,21,47,"Intercropping (e.g., Maize + Legumes)",19,14,16
+Sugarcane Top Shoot Borer,Rice,Flowering,"Kolar, Karnataka",19.5,50,13,Laterite,6.5,49,31,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",15,24,27
+Mango Hopper,Sugarcane,Vegetative,Kerala,28.8,57,8,Sandy,5.9,40,15,Garlic-Chili Spray,23,12,28
+Groundnut Leaf Miner,Rice,Flowering,West Bengal,26.3,86,15,Black Soil,5.9,40,44,Compost Tea Spraying,18,17,33
+Thrips,Rice,Vegetative,"Coimbatore, Tamil Nadu",24.6,42,10,Red Soil,5.8,23,26,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,10,17
+Coffee Borer,Rice,Flowering,"Coimbatore, Tamil Nadu",23.7,70,7,Red Soil,6.1,28,23,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",29,18,31
+Coffee Borer,Mango,Flowering,"Coimbatore, Tamil Nadu",22.3,80,16,Red Soil,6.8,46,22,"Companion Planting (e.g., Marigold for pest repulsion)",17,16,21
+Groundnut Leaf Miner,Tomato,Flowering,"Hyderabad, Telangana",33.2,85,5,Laterite,6.6,46,37,Adoption of Resistant Crop Varieties,29,15,33
+Sugarcane Top Shoot Borer,Wheat,Flowering,"West Bengal, West Bengal",18.4,58,7,Alluvial,7,46,16,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",29,22,30
+Coffee Borer,Sugarcane,Vegetative,"Nagpur, Maharashtra",29.7,58,2,Red Soil,5.6,37,21,Crop Rotation,21,22,28
+Coffee Borer,Mango,Flowering,"Anantapur, Andhra Pradesh",32.4,54,15,Loamy,7.1,17,35,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",17,20,30
+Groundnut Leaf Miner,Cotton,Vegetative,"Kolar, Karnataka",28.8,86,5,Black Soil,6.5,39,43,Garlic-Chili Spray,23,21,18
+Diamondback Moth,Tomato,Vegetative,"Kozhikode, Kerala",29.4,64,8,Red Soil,5.8,23,45,Garlic-Chili Spray,29,23,21
+Spotted Pod Borer,Coffee,Vegetative,Rajasthan,24.2,49,20,Alluvial,6.9,46,38,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",18,11,32
+Mango Hopper,Coffee,Vegetative,"Nagpur, Maharashtra",22.9,79,10,Alluvial,7.3,37,33,Sticky Traps for Flying Pests,17,11,27
+Chickpea Pod Borer,Wheat,Vegetative,"Coimbatore, Tamil Nadu",32.2,54,8,Laterite,5.9,36,50,"Biopesticides (e.g., Bacillus thuringiensis)",27,18,31
+White Grubs,Coffee,Flowering,"Coimbatore, Tamil Nadu",31.7,61,7,Alluvial,6.6,29,31,Garlic-Chili Spray,29,12,34
+Red Cotton Bug,Groundnut,Flowering,Karnataka,26.1,47,6,Black Soil,6,33,16,Compost Tea Spraying,23,15,28
+Yellow Stem Borer,Chickpea,Fruiting,Karnataka,24.2,65,15,Black Soil,6.6,42,48,Crop Rotation,15,24,22
+Helicoverpa Armigera (Cotton Bollworm),Coffee,Maturity,"Kozhikode, Kerala",31.3,87,13,Red Soil,7.1,35,34,"Companion Planting (e.g., Marigold for pest repulsion)",28,10,26
+Thrips,Sugarcane,Vegetative,West Bengal,34.1,84,20,Alluvial,5.5,36,21,Diatomaceous Earth Application,17,14,17
+White Grubs,Rice,Fruiting,"Coimbatore, Tamil Nadu",19.8,45,19,Red Soil,5.9,30,25,"Companion Planting (e.g., Marigold for pest repulsion)",15,10,21
+Thrips,Coffee,Seedling,"Patna, Bihar",27.2,55,12,Red Soil,6.6,36,17,Compost Tea Spraying,18,16,25
+Chickpea Pod Borer,Tomato,Vegetative,Karnataka,21.9,89,10,Laterite,6.8,36,35,Garlic-Chili Spray,16,19,30
+Coffee Borer,Mango,Fruiting,"Kolar, Karnataka",20.2,55,4,Laterite,6.8,19,47,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,13,25
+Groundnut Leaf Miner,Sugarcane,Flowering,Karnataka,21.2,61,19,Red Soil,7,26,36,Soap Spray (Potassium-based),15,10,33
+Chickpea Pod Borer,Groundnut,Flowering,"Mysore, Karnataka",31.3,76,8,Laterite,6,17,15,Compost Tea Spraying,18,17,16
+Mealybugs,Chickpea,Flowering,Kerala,23.2,67,13,Red Soil,6.9,21,45,"Organic Fertilizers (e.g., Vermicompost)",25,16,30
+Sugarcane Top Shoot Borer,Cotton,Vegetative,"Patna, Bihar",26.1,64,1,Red Soil,5.6,29,30,"Companion Planting (e.g., Marigold for pest repulsion)",27,12,26
+Diamondback Moth,Groundnut,Flowering,"Nagpur, Maharashtra",23.6,75,11,Alluvial,6.9,23,50,Compost Tea Spraying,21,10,27
+Helicoverpa Armigera (Cotton Bollworm),Sugarcane,Flowering,Uttar Pradesh,25,70,7,Alluvial,5.6,35,25,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",18,15,25
+Rice Hispa,Cotton,Vegetative,Karnataka,25.2,80,20,Sandy,7,36,18,Sticky Traps for Flying Pests,16,10,30
+Spotted Pod Borer,Chickpea,Flowering,"Ludhiana, Punjab",34.9,74,19,Alluvial,6.7,17,29,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",17,13,18
+Yellow Stem Borer,Chickpea,Flowering,"Kerala, Kerala",29.6,47,8,Red Soil,6.8,30,32,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",16,11,27
+Mango Hopper,Coconut,Flowering,"Lucknow, Uttar Pradesh",23.8,69,17,Red Soil,7.3,25,45,Use of Pheromone Traps,28,12,33
+Coffee Borer,Chickpea,Flowering,"Kolar, Karnataka",18.3,48,4,Alluvial,6.5,27,39,Use of Pheromone Traps,26,23,33
+Red Cotton Bug,Rice,Vegetative,"Lucknow, Uttar Pradesh",32.3,78,9,Loamy,6.8,32,35,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,24,31
+Diamondback Moth,Rice,Flowering,Gujarat,28.2,50,20,Alluvial,7,17,48,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",17,22,28
+Helicoverpa Armigera (Cotton Bollworm),Mango,Flowering,"Chikmagalur, Karnataka",31.7,55,9,Laterite,6,27,37,"Companion Planting (e.g., Marigold for pest repulsion)",22,13,24
+Spotted Pod Borer,Cotton,Maturation,"Uttar Pradesh, Uttar Pradesh",34.1,79,12,Black Soil,6.1,23,17,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,21,17
+Mango Hopper,Sugarcane,Vegetative,"Kochi, Kerala",31.5,83,6,Alluvial,5.7,50,22,Compost Tea Spraying,20,14,24
+Chickpea Pod Borer,Chickpea,Flowering,"Nashik, Maharashtra",23.2,48,13,Laterite,6.8,38,46,Sticky Traps for Flying Pests,15,13,15
+Mealybugs,Groundnut,Seedling,Kerala,24.6,56,13,Black Soil,6.2,32,31,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",15,17,15
+Red Cotton Bug,Sugarcane,Vegetative,"Bhagalpur, Bihar",33.7,72,3,Red Soil,5.6,16,29,Diatomaceous Earth Application,19,11,28
+Mealybugs,Coffee,Vegetative,"Maharashtra, Maharashtra",32.8,45,20,Red Soil,5.7,46,27,Diatomaceous Earth Application,15,13,21
+Rice Hispa,Coffee,Vegetative,"Gujarat, Gujarat",29.5,83,0,Laterite,6.3,48,46,"Mulching (e.g., Straw Mulch)",26,22,21
+Chickpea Pod Borer,Groundnut,Seedling,"Nagpur, Maharashtra",19.1,47,1,Laterite,6.4,32,29,Soil Solarization,18,21,24
+Diamondback Moth,Cotton,Vegetative,"Bhopal, Madhya Pradesh",33.6,84,10,Alluvial,6.7,37,39,"Companion Planting (e.g., Marigold for pest repulsion)",22,11,19
+Coffee Borer,Cotton,Vegetative,"Nagpur, Maharashtra",30.2,46,19,Alluvial,7.2,47,36,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",26,12,16
+Yellow Stem Borer,Mango,Fruiting,Karnataka,29,83,7,Black Soil,6,22,28,Diatomaceous Earth Application,20,11,34
+Coffee Borer,Coconut,Vegetative,Kerala,32.1,83,13,Alluvial,7.1,28,39,"Mulching (e.g., Straw Mulch)",25,14,16
+Chickpea Pod Borer,Groundnut,Flowering,"Rajasthan, India",32,47,11,Red Soil,7.2,41,21,Sticky Traps for Flying Pests,25,11,24
+Diamondback Moth,Groundnut,Flowering,"Coimbatore, Tamil Nadu",24.9,54,16,Red Soil,5.7,40,26,"Intercropping (e.g., Maize + Legumes)",15,12,24
+Yellow Stem Borer,Groundnut,Vegetative,"Ludhiana, Punjab",28.3,68,15,Black Soil,5.8,26,18,Soap Spray (Potassium-based),17,14,30
+Thrips,Rice,Vegetative,"Mysore, Karnataka",31.5,41,7,Loamy,7.5,50,41,"Organic Fertilizers (e.g., Vermicompost)",22,22,27
+Brown Planthopper (BPH),Tomato,Vegetative,"Nagpur, Maharashtra",24.8,88,20,Black Soil,6,18,28,Sticky Traps for Flying Pests,20,12,31
+Chickpea Pod Borer,Cotton,Seedling,"Ludhiana, Punjab",34.8,61,10,Black Soil,6.1,24,23,Garlic-Chili Spray,28,13,17
+Helicoverpa Armigera (Cotton Bollworm),Chickpea,Flowering,Rajasthan,22.1,53,4,Loamy,6.7,43,49,Garlic-Chili Spray,21,10,32
+Diamondback Moth,Rice,Seedling,"Karnataka, Karnataka",31.3,65,18,Alluvial,7.4,17,27,Use of Pheromone Traps,18,24,23
+White Grubs,Sugarcane,Vegetative,Gujarat,21.7,43,0,Red Soil,7.1,23,38,Compost Tea Spraying,29,22,32
+White Grubs,Tomato,Flowering,"Anantapur, Andhra Pradesh",33.1,76,20,Black Soil,6.3,44,45,Diatomaceous Earth Application,29,21,28
+Mealybugs,Groundnut,Vegetative,Rajasthan,33,73,11,Black Soil,7.5,20,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",24,17,16
+Red Cotton Bug,Sugarcane,Seedling,"Kochi, Kerala",34.4,84,17,Red Soil,6.6,27,34,"Companion Planting (e.g., Marigold for pest repulsion)",23,14,26
+Groundnut Leaf Miner,Chickpea,Flowering,"Gorakhpur, Uttar Pradesh",22.7,84,3,Loamy,7,27,30,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,18,20
+Coffee Borer,Sugarcane,Vegetative,"Nagpur, Maharashtra",21.4,66,15,Loamy,7.4,46,39,"Companion Planting (e.g., Marigold for pest repulsion)",24,14,27
+Groundnut Leaf Miner,Groundnut,Flowering,"Kochi, Kerala",19.3,63,10,Laterite,6.9,25,17,Use of Pheromone Traps,29,12,18
+Diamondback Moth,Groundnut,Fruiting,"Nashik, Maharashtra",27.7,84,4,Black Soil,5.7,36,45,"Intercropping (e.g., Maize + Legumes)",16,20,18
+Mango Hopper,Groundnut,Vegetative,"Kolkata, West Bengal",20.3,88,10,Alluvial,5.8,17,45,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,11,29
+White Grubs,Mango,Vegetative,Rajasthan,28.4,89,14,Alluvial,6.4,25,40,"Mulching (e.g., Straw Mulch)",29,23,21
+Sugarcane Top Shoot Borer,Chickpea,Flowering,"Coimbatore, Tamil Nadu",33.6,65,0,Black Soil,6.6,49,26,Adoption of Resistant Crop Varieties,19,11,15
+Mealybugs,Coffee,Fruiting,"Coimbatore, Tamil Nadu",31.8,89,2,Loamy,7.3,20,36,"Mulching (e.g., Straw Mulch)",23,13,32
+Spotted Pod Borer,Groundnut,Flowering,Karnataka,18.2,72,18,Black Soil,6.7,19,39,"Organic Fertilizers (e.g., Vermicompost)",27,15,29
+Diamondback Moth,Mango,Flowering,"Coimbatore, Tamil Nadu",26.8,51,6,Alluvial,7.2,49,47,Crop Rotation,17,22,33
+Yellow Stem Borer,Chickpea,Maturity,Tamil Nadu,23.3,64,13,Black Soil,7.4,44,34,Sticky Traps for Flying Pests,26,20,21
+Groundnut Leaf Miner,Mango,Vegetative,"Maharashtra, Maharashtra",19.9,75,1,Black Soil,5.9,16,31,Neem Oil Spray,23,16,29
+Diamondback Moth,Mango,Seedling,"Aurangabad, Maharashtra",32.3,46,14,Loamy,5.5,45,27,"Biopesticides (e.g., Bacillus thuringiensis)",24,10,15
+Thrips,Groundnut,Vegetative,Karnataka,34.3,85,8,Alluvial,6.2,49,36,"Companion Planting (e.g., Marigold for pest repulsion)",28,23,22
+Coffee Borer,Mango,Vegetative,"Nagpur, Maharashtra",33.8,71,7,Loamy,7.5,18,47,Sticky Traps for Flying Pests,28,20,17
+Diamondback Moth,Cotton,Flowering,"Coimbatore, Tamil Nadu",20,73,8,Laterite,7.1,47,46,Adoption of Resistant Crop Varieties,19,12,20
+White Grubs,Cotton,Vegetative,"Kodaikanal, Tamil Nadu",20,46,16,Red Soil,6.2,25,45,Use of Pheromone Traps,19,21,15
+Coffee Borer,Rice,Flowering,"Coimbatore, Tamil Nadu",21.7,48,2,Alluvial,7.5,35,20,Adoption of Resistant Crop Varieties,23,13,26
+Red Cotton Bug,Tomato,Fruiting,"Anantapur, Andhra Pradesh",31.5,60,17,Red Soil,6.9,48,50,Compost Tea Spraying,22,14,24
+Sugarcane Top Shoot Borer,Groundnut,Vegetative,"Coimbatore, Tamil Nadu",34,79,19,Red Soil,5.9,43,33,"Companion Planting (e.g., Marigold for pest repulsion)",20,16,18
+Rice Hispa,Chickpea,Seedling,"Coimbatore, Tamil Nadu",23.8,76,3,Sandy,5.5,20,15,Use of Pheromone Traps,20,10,29
+Chickpea Pod Borer,Coffee,Maturation,"Gujarat, Gujarat",34.1,60,11,Red Soil,6,21,34,"Companion Planting (e.g., Marigold for pest repulsion)",25,18,30
+Groundnut Leaf Miner,Rice,Seedling,Uttar Pradesh,18,80,0,Loamy,6.1,18,46,"Biopesticides (e.g., Bacillus thuringiensis)",27,21,15
+Sugarcane Top Shoot Borer,Mango,Seedling,Karnataka,33,51,18,Black Soil,5.8,19,44,"Organic Fertilizers (e.g., Vermicompost)",19,16,24
+Groundnut Leaf Miner,Rice,Flowering,"Mysore, Karnataka",32.7,87,9,Loamy,7.1,25,32,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",18,19,28
+Coffee Borer,Sugarcane,Vegetative,"Ludhiana, Punjab",22.1,50,15,Alluvial,6.4,25,24,Crop Rotation,20,13,17
+Rice Hispa,Tomato,Seedling,"Coimbatore, Tamil Nadu",18.4,56,9,Black Soil,6.6,23,49,Soap Spray (Potassium-based),27,14,26
+Chickpea Pod Borer,Coffee,Seedling,"Kerala, Kerala",30.4,49,6,Loamy,7.3,40,45,"Companion Planting (e.g., Marigold for pest repulsion)",29,12,19
+Sugarcane Top Shoot Borer,Sugarcane,Flowering,"Nashik, Maharashtra",22.4,50,8,Sandy,6.4,16,31,"Biopesticides (e.g., Bacillus thuringiensis)",21,13,16
+Chickpea Pod Borer,Cotton,Vegetative,"Punjab, Punjab",27.4,57,14,Alluvial,7.1,42,34,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,16,34
+Coffee Borer,Cotton,Flowering,Kerala,20.8,47,16,Laterite,5.9,31,16,Compost Tea Spraying,20,20,18
+Leafhoppers,Cotton,Vegetative,"Kolkata, West Bengal",23,74,12,Red Soil,7.2,23,16,Garlic-Chili Spray,18,23,18
+Helicoverpa Armigera (Cotton Bollworm),Mango,Flowering,Kerala,26,60,17,Black Soil,6.6,27,27,Crop Rotation,21,22,18
+Thrips,Rice,Flowering,Gujarat,34.9,55,8,Alluvial,6.7,48,30,Compost Tea Spraying,21,23,32
+Diamondback Moth,Cotton,Vegetative,"Coimbatore, Tamil Nadu",25.1,84,16,Alluvial,6.6,42,32,Adoption of Resistant Crop Varieties,23,12,19
+White Grubs,Mango,Seedling,Punjab,18.6,84,15,Alluvial,7.5,33,31,"Organic Fertilizers (e.g., Vermicompost)",24,21,21
+Diamondback Moth,Coffee,Vegetative,"Nagpur, Maharashtra",33.9,71,20,Laterite,7.2,18,42,Crop Rotation,15,15,28
+Red Cotton Bug,Sugarcane,Maturity,Gujarat,30.8,66,2,Red Soil,5.6,18,33,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",15,23,17
+Helicoverpa Armigera (Cotton Bollworm),Groundnut,Vegetative,"Coimbatore, Tamil Nadu",30.6,81,19,Loamy,6.7,22,21,Neem Oil Spray,28,18,27
+Spotted Pod Borer,Coffee,Flowering,"Ludhiana, Punjab",21.8,70,4,Alluvial,5.8,25,33,"Mulching (e.g., Straw Mulch)",20,13,21
+Mango Hopper,Tomato,Flowering,"Gujarat, Gujarat",20.5,64,1,Laterite,6.2,37,18,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,24,22
+Coffee Borer,Coffee,Vegetative,"Nagpur, Maharashtra",32,71,2,Black Soil,5.6,43,17,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,24,31
+Coffee Borer,Mango,Maturity,Kerala,30.8,59,9,Laterite,6.2,43,24,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,24,18
+Groundnut Leaf Miner,Groundnut,Vegetative,"Ludhiana, Punjab",29.5,85,13,Red Soil,5.6,45,23,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",18,22,24
+Groundnut Leaf Miner,Chickpea,Fruiting,"Hyderabad, Telangana",28.7,73,16,Laterite,5.6,26,24,"Organic Fertilizers (e.g., Vermicompost)",23,16,19
+Diamondback Moth,Sugarcane,Vegetative,"Lucknow, Uttar Pradesh",20.4,52,9,Red Soil,6.3,36,33,Diatomaceous Earth Application,22,13,17
+Yellow Stem Borer,Chickpea,Vegetative,"Nagpur, Maharashtra",24.2,85,5,Laterite,7.1,23,17,Diatomaceous Earth Application,20,13,17
+Sugarcane Top Shoot Borer,Sugarcane,Flowering,Punjab,26.4,57,0,Red Soil,6.2,30,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,12,32
+Thrips,Coffee,Maturation,"Guwahati, Assam",29.9,45,12,Red Soil,5.9,32,42,Diatomaceous Earth Application,23,14,24
+Yellow Stem Borer,Groundnut,Fruiting,"Hyderabad, Telangana",29.3,51,17,Alluvial,6.5,20,30,Sticky Traps for Flying Pests,26,13,15
+Sugarcane Top Shoot Borer,Mango,Flowering,"Punjab, Punjab",18.2,68,16,Black Soil,7.2,36,15,"Companion Planting (e.g., Marigold for pest repulsion)",22,18,32
+Helicoverpa Armigera (Cotton Bollworm),Coffee,Maturity,"Assam, Assam",20.3,73,3,Alluvial,5.9,44,44,Diatomaceous Earth Application,17,13,22
+Rice Hispa,Coffee,Maturity,"Gujarat, Gujarat",30,84,0,Alluvial,5.9,45,33,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,18,24
+Coffee Borer,Sugarcane,Flowering,Karnataka,24,89,4,Laterite,6.6,32,40,Adoption of Resistant Crop Varieties,19,17,34
+Rice Hispa,Chickpea,Flowering,"West Bengal, West Bengal",35,83,2,Red Soil,7.1,46,47,Sticky Traps for Flying Pests,15,12,25
+Groundnut Leaf Miner,Cotton,Flowering,Assam,23.5,79,4,Loamy,6.3,30,18,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,23,31
+Leafhoppers,Chickpea,Flowering,"Nagpur, Maharashtra",24.3,70,13,Alluvial,7.1,18,21,Compost Tea Spraying,22,20,21
+Diamondback Moth,Cotton,Vegetative,Punjab,32.1,85,19,Red Soil,7.5,34,43,Garlic-Chili Spray,15,12,24
+White Grubs,Groundnut,Flowering,"Nagpur, Maharashtra",19.5,51,12,Red Soil,5.6,43,21,"Mulching (e.g., Straw Mulch)",18,23,26
+Helicoverpa Armigera (Cotton Bollworm),Mango,Seedling,Assam,20.9,48,7,Loamy,5.7,23,41,Garlic-Chili Spray,29,13,20
+Yellow Stem Borer,Chickpea,Vegetative,"Nagpur, Maharashtra",30.2,69,7,Alluvial,6.6,23,17,Garlic-Chili Spray,25,18,20
+White Grubs,Groundnut,Maturity,"Maharashtra, Maharashtra",29.2,47,12,Red Soil,7.3,30,49,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",29,20,31
+Groundnut Leaf Miner,Rice,Seedling,Karnataka,33.7,41,2,Alluvial,6.5,40,18,Diatomaceous Earth Application,28,23,31
+Yellow Stem Borer,Chickpea,Flowering,"Kochi, Kerala",24.7,65,14,Laterite,5.8,37,22,Crop Rotation,27,24,32
+Thrips,Coffee,Flowering,Gujarat,30.1,48,10,Black Soil,7,33,25,Soap Spray (Potassium-based),25,21,26
+Coffee Borer,Cotton,Flowering,"Uttar Pradesh, Uttar Pradesh",32.3,41,6,Alluvial,6.9,43,18,Garlic-Chili Spray,23,17,22
+Sugarcane Top Shoot Borer,Sugarcane,Flowering,"Chikmagalur, Karnataka",29.6,90,10,Red Soil,6.4,25,49,Garlic-Chili Spray,23,12,31
+Coffee Borer,Wheat,Vegetative,"Hyderabad, Telangana",26.5,80,14,Alluvial,6.8,34,49,Use of Pheromone Traps,23,22,21
+Chickpea Pod Borer,Cotton,Fruiting,"Coimbatore, Tamil Nadu",26.3,47,9,Red Soil,6.4,41,15,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",26,17,18
+Mango Hopper,Chickpea,Vegetative,"Kodaikanal, Tamil Nadu",32.4,77,1,Alluvial,6,27,38,"Companion Planting (e.g., Marigold for pest repulsion)",18,20,27
+Coffee Borer,Cotton,Vegetative,Kerala,22.1,59,14,Alluvial,7.3,46,17,Diatomaceous Earth Application,17,20,33
+Mango Hopper,Coffee,Vegetative,"Aurangabad, Maharashtra",23.4,58,18,Loamy,7.3,23,36,Diatomaceous Earth Application,19,22,34
+Coffee Borer,Sugarcane,Vegetative,"Uttar Pradesh, Uttar Pradesh",21.2,40,7,Black Soil,5.6,43,43,"Companion Planting (e.g., Marigold for pest repulsion)",21,14,34
+Helicoverpa Armigera (Cotton Bollworm),Groundnut,Fruiting,"Ludhiana, Punjab",22.2,40,10,Alluvial,7.3,43,16,Garlic-Chili Spray,24,12,32
+Groundnut Leaf Miner,Cotton,Vegetative,"Bhopal, Madhya Pradesh",18.6,58,7,Red Soil,5.9,30,43,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,18,34
+Coffee Borer,Rice,Seedling,"Nashik, Maharashtra",30.6,86,2,Alluvial,7.1,29,31,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",26,19,23
+Groundnut Leaf Miner,Groundnut,Fruiting,"Guwahati, Assam",26.1,71,1,Loamy,6.7,43,38,"Companion Planting (e.g., Marigold for pest repulsion)",17,11,23
+Helicoverpa Armigera (Cotton Bollworm),Groundnut,Vegetative,Assam,29.3,58,6,Loamy,7.4,22,24,Compost Tea Spraying,28,22,20
+Coffee Borer,Coconut,Flowering,Gujarat,27.5,73,2,Alluvial,7.5,32,17,"Companion Planting (e.g., Nasturtiums for pest repulsion)",22,20,17
+Sugarcane Top Shoot Borer,Mango,Vegetative,"Nagpur, Maharashtra",28.2,85,1,Laterite,6.7,23,17,"Intercropping (e.g., Maize + Legumes)",28,19,25
+Chickpea Pod Borer,Cotton,Vegetative,"Patna, Bihar",27.2,40,10,Black Soil,7,21,47,Adoption of Resistant Crop Varieties,18,10,16
+Helicoverpa Armigera (Cotton Bollworm),Chickpea,Vegetative,West Bengal,25.5,86,6,Laterite,6.4,15,46,"Companion Planting (e.g., Marigold for pest repulsion)",27,23,25
+Sugarcane Top Shoot Borer,Cotton,Vegetative,"Vijayawada, Andhra Pradesh",28.2,48,6,Red Soil,7.1,24,47,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,18,34
+Yellow Stem Borer,Cotton,Flowering,"Bhagalpur, Bihar",19,42,10,Black Soil,5.6,44,17,Crop Rotation,15,22,26
+Thrips,Cotton,Flowering,"Coimbatore, Tamil Nadu",25.8,55,0,Red Soil,6.4,24,34,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,15,28
+Rice Hispa,Cotton,Fruiting,"Lucknow, Uttar Pradesh",32.8,84,10,Laterite,5.8,26,44,Crop Rotation,18,13,28
+Diamondback Moth,Mango,Seedling,"Ludhiana, Punjab",26.4,73,14,Red Soil,6.8,30,22,"Organic Fertilizers (e.g., Vermicompost)",28,22,34
+Red Cotton Bug,Chickpea,Flowering,"Kolar, Karnataka",27.2,89,20,Alluvial,6.2,36,18,Soil Solarization,28,22,22
+Leafhoppers,Mango,Vegetative,"Hyderabad, Telangana",33.2,57,20,Loamy,5.8,26,22,"Biopesticides (e.g., Bacillus thuringiensis)",17,17,15
+Mango Hopper,Coffee,Vegetative,"West Bengal, West Bengal",34.5,73,13,Alluvial,5.8,42,15,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",26,18,29
+Coffee Borer,Coffee,Fruiting,"Kochi, Kerala",31.4,43,15,Red Soil,6.7,50,46,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",24,21,32
+Rice Hispa,Coffee,Vegetative,"Kolkata, West Bengal",34.3,82,16,Laterite,7.1,27,48,Garlic-Chili Spray,26,16,27
+Mealybugs,Chickpea,Vegetative,"Ludhiana, Punjab",22.2,65,8,Alluvial,6.6,30,39,Garlic-Chili Spray,23,17,29
+Diamondback Moth,Chickpea,Flowering,"Nashik, Maharashtra",28,72,4,Alluvial,6.5,27,19,Garlic-Chili Spray,16,19,22
+Coffee Borer,Chickpea,Flowering,"Ludhiana, Punjab",30.8,79,12,Loamy,6.8,23,42,"Mulching (e.g., Straw Mulch)",28,12,33
+Groundnut Leaf Miner,Coffee,Vegetative,"Ludhiana, Punjab",20.4,42,10,Black Soil,5.9,21,23,Use of Pheromone Traps,26,20,31
+Chickpea Pod Borer,Groundnut,Fruiting,"Vijayawada, Andhra Pradesh",18.6,72,18,Loamy,6.8,31,26,Sticky Traps for Flying Pests,18,18,21
+Rice Hispa,Cotton,Fruiting,"Mysore, Karnataka",22.5,86,15,Red Soil,6.9,23,27,"Biopesticides (e.g., Bacillus thuringiensis)",16,22,15
+Helicoverpa Armigera (Cotton Bollworm),Sugarcane,Vegetative,"Hyderabad, Telangana",23,53,15,Alluvial,6.5,19,21,Soil Solarization,27,18,31
+Groundnut Leaf Miner,Groundnut,Maturity,"Nashik, Maharashtra",33.7,69,1,Loamy,5.6,24,40,Use of Pheromone Traps,24,21,26
+Helicoverpa Armigera (Cotton Bollworm),Coffee,Flowering,"Coimbatore, Tamil Nadu",24.2,40,10,Black Soil,6,44,24,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,14,33
+Diamondback Moth,Rice,Flowering,Assam,26.3,89,1,Red Soil,7,21,17,Neem Oil Spray,24,24,25
+Thrips,Mango,Fruiting,Kerala,34.2,65,11,Red Soil,5.9,28,18,Diatomaceous Earth Application,25,10,33
+Chickpea Pod Borer,Groundnut,Seedling,Assam,26.7,55,14,Laterite,6.2,41,15,"Companion Planting (e.g., Marigold for pest repulsion)",27,16,25
+Yellow Stem Borer,Groundnut,Vegetative,"Coimbatore, Tamil Nadu",29.7,63,8,Alluvial,6.2,32,21,"Companion Planting (e.g., Marigold for pest repulsion)",19,11,32
+Coffee Borer,Rice,Flowering,"Coimbatore, Tamil Nadu",18.9,70,18,Red Soil,5.9,19,36,Sticky Traps for Flying Pests,19,14,32
+Mango Hopper,Mango,Fruiting,"Kerala, Kerala",31.8,86,19,Black Soil,5.7,32,32,Adoption of Resistant Crop Varieties,24,24,27
+Coffee Borer,Rice,Flowering,"Coimbatore, Tamil Nadu",18.6,62,19,Alluvial,6.5,46,42,Garlic-Chili Spray,18,20,20
+Yellow Stem Borer,Groundnut,Vegetative,Assam,26.8,50,1,Alluvial,5.8,24,18,Diatomaceous Earth Application,15,24,34
+Helicoverpa Armigera (Cotton Bollworm),Cotton,Flowering,"Rajasthan, Rajasthan",26.5,53,20,Black Soil,7,50,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",15,17,19
+Groundnut Leaf Miner,Groundnut,Vegetative,"Uttar Pradesh, Uttar Pradesh",23.8,80,9,Loamy,7.3,40,16,Adoption of Resistant Crop Varieties,23,17,34
+Groundnut Leaf Miner,Groundnut,Seedling,Gujarat,31.9,63,4,Sandy,6.3,32,26,"Companion Planting (e.g., Marigold for pest repulsion)",23,10,33
+Groundnut Leaf Miner,Sugarcane,Vegetative,Karnataka,20.4,43,6,Alluvial,5.9,47,30,Neem Oil Spray,24,15,32
+Thrips,Coffee,Seedling,Rajasthan,20.2,64,18,Laterite,6,30,42,Neem Oil Spray,29,18,25
+Groundnut Leaf Miner,Groundnut,Flowering,"Bhopal, Madhya Pradesh",24.4,54,1,Laterite,5.6,41,26,Adoption of Resistant Crop Varieties,19,18,29
+Groundnut Leaf Miner,Cotton,Flowering,"Kodaikanal, Tamil Nadu",25,86,0,Black Soil,6,43,41,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,13,15
+Red Cotton Bug,Groundnut,Fruiting,West Bengal,22.9,67,14,Loamy,6.4,36,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,12,30
+Helicoverpa Armigera (Cotton Bollworm),Coffee,Seedling,"Aurangabad, Maharashtra",18.4,54,1,Loamy,7.3,41,29,"Organic Fertilizers (e.g., Vermicompost)",25,17,15
+Leafhoppers,Groundnut,Vegetative,"Bhagalpur, Bihar",22.2,89,11,Laterite,7.1,27,30,Neem Oil Spray,29,12,23
+Groundnut Leaf Miner,Groundnut,Flowering,"Chikmagalur, Karnataka",34.1,87,12,Red Soil,6.1,29,18,Soap Spray (Potassium-based),18,17,21
+Helicoverpa Armigera (Cotton Bollworm),Rice,Vegetative,"Gandhinagar, Gujarat",33.5,73,4,Laterite,6.1,24,20,Compost Tea Spraying,28,11,34
+Thrips,Chickpea,Vegetative,"Coimbatore, Tamil Nadu",18.9,67,4,Alluvial,7.4,34,44,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",17,24,15
+Mango Hopper,Cotton,Vegetative,"Karnataka, Karnataka",31.4,72,7,Black Soil,5.8,33,35,"Biopesticides (e.g., Bacillus thuringiensis)",20,17,33
+Sugarcane Top Shoot Borer,Tomato,Vegetative,"Rajasthan, India",20.2,43,5,Black Soil,6.8,43,38,Adoption of Resistant Crop Varieties,18,11,30
+Groundnut Leaf Miner,Sugarcane,Fruiting,"Nagpur, Maharashtra",18.6,62,15,Loamy,7.2,45,27,"Biopesticides (e.g., Bacillus thuringiensis)",19,16,20
+Rice Hispa,Rice,Maturity,"Ludhiana, Punjab",31.5,88,20,Laterite,6.9,28,21,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,21,34
+Sugarcane Top Shoot Borer,Groundnut,Seedling,"Nagpur, Maharashtra",33.7,59,9,Loamy,5.7,47,50,Use of Pheromone Traps,20,22,17
+Mango Hopper,Groundnut,Fruiting,"West Bengal, West Bengal",23.2,55,10,Alluvial,6.9,44,41,Neem Oil Spray,21,22,29
+White Grubs,Mango,Vegetative,"Gujarat, Gujarat",27.2,80,7,Red Soil,6.2,31,19,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,13,15
+Brown Planthopper (BPH),Rice,Fruiting,"Mysore, Karnataka",28.5,68,15,Laterite,5.7,36,25,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",26,21,17
+Yellow Stem Borer,Groundnut,Flowering,"Vijayawada, Andhra Pradesh",25.6,88,14,Red Soil,6.2,34,41,Use of Pheromone Traps,17,14,28
+Leafhoppers,Chickpea,Vegetative,West Bengal,20.7,89,2,Laterite,6.5,43,15,Use of Pheromone Traps,15,16,32
+Thrips,Cotton,Vegetative,Karnataka,34.5,71,13,Loamy,5.5,50,30,Sticky Traps for Flying Pests,16,13,15
+Groundnut Leaf Miner,Groundnut,Flowering,Gujarat,28.3,69,10,Alluvial,5.9,27,44,Use of Pheromone Traps,29,17,22
+Chickpea Pod Borer,Cotton,Flowering,"Gwalior, Madhya Pradesh",28.3,43,16,Red Soil,6.1,28,22,Sticky Traps for Flying Pests,22,14,21
+Chickpea Pod Borer,Coffee,Vegetative,"Mysore, Karnataka",18.4,70,19,Laterite,6.8,26,25,"Companion Planting (e.g., Marigold for pest repulsion)",23,11,31
+Thrips,Mango,Seedling,"Aurangabad, Maharashtra",19.5,44,7,Alluvial,6.5,40,37,"Companion Planting (e.g., Marigold for pest repulsion)",18,10,27
+Helicoverpa Armigera (Cotton Bollworm),Rice,Flowering,"Coimbatore, Tamil Nadu",19.9,61,15,Alluvial,6.4,33,19,Garlic-Chili Spray,20,17,27
+Chickpea Pod Borer,Rice,Vegetative,"Kerala, Kerala",31.1,45,15,Alluvial,6.9,25,48,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",26,15,21
+Helicoverpa Armigera (Cotton Bollworm),Sugarcane,Seedling,"Gwalior, Madhya Pradesh",25.8,80,14,Sandy,5.9,49,31,"Organic Fertilizers (e.g., Vermicompost)",28,24,17
+Coffee Borer,Cotton,Fruiting,"Hyderabad, Telangana",24,74,18,Red Soil,7.3,22,28,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",25,19,33
+Coffee Borer,Sugarcane,Flowering,"Aurangabad, Maharashtra",31,90,16,Red Soil,7.4,22,28,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,24,30
+Groundnut Leaf Miner,Mango,Maturity,"Ludhiana, Punjab",33.4,57,18,Alluvial,7.5,28,43,Use of Pheromone Traps,20,18,28
+Rice Hispa,Mango,Vegetative,West Bengal,28.9,71,14,Red Soil,7,18,27,Crop Rotation,29,13,30
+Coffee Borer,Rice,Flowering,"Coimbatore, Tamil Nadu",26.8,40,16,Loamy,6.1,18,32,"Organic Fertilizers (e.g., Vermicompost)",22,10,24
+Groundnut Leaf Miner,Cotton,Flowering,"Coimbatore, Tamil Nadu",23.7,84,7,Red Soil,6.1,39,47,Diatomaceous Earth Application,16,20,22
+Chickpea Pod Borer,Rice,Flowering,"Guntur, Andhra Pradesh",23.1,90,3,Laterite,7.4,18,30,"Companion Planting (e.g., Marigold for pest repulsion)",20,19,21
+Yellow Stem Borer,Coconut,Flowering,"Gujarat, India",25.1,73,16,Laterite,6.4,42,33,Neem Oil Spray,26,17,33
+Groundnut Leaf Miner,Tomato,Flowering,"Coimbatore, Tamil Nadu",26.4,82,9,Red Soil,6.6,26,50,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,10,26
+Thrips,Tomato,Seedling,Gujarat,20.1,85,16,Red Soil,7.5,47,40,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,12,18
+Helicoverpa Armigera (Cotton Bollworm),Groundnut,Vegetative,"Anantapur, Andhra Pradesh",29.4,86,1,Loamy,7.4,30,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",16,24,25
+Spotted Pod Borer,Sugarcane,Vegetative,"Nagpur, Maharashtra",26.2,44,3,Alluvial,5.8,33,29,Neem Oil Spray,16,17,16
+Yellow Stem Borer,Rice,Vegetative,West Bengal,28.1,44,16,Black Soil,7.4,23,36,"Companion Planting (e.g., Marigold for pest repulsion)",21,18,31
+White Grubs,Coffee,Flowering,"Gujarat, Gujarat",27.4,46,9,Loamy,6.9,34,38,"Companion Planting (e.g., Marigold for pest repulsion)",22,17,34
+Diamondback Moth,Cotton,Seedling,"Nagpur, Maharashtra",25.9,77,19,Black Soil,5.6,40,38,"Companion Planting (e.g., Nasturtiums for pest repulsion)",23,17,18
+Thrips,Groundnut,Flowering,"Guntur, Andhra Pradesh",27,90,14,Black Soil,7.2,26,44,Neem Oil Spray,23,18,24
+Mango Hopper,Tomato,Flowering,"Bhopal, Madhya Pradesh",27.6,48,10,Black Soil,6.6,41,23,Compost Tea Spraying,23,19,23
+Mealybugs,Chickpea,Vegetative,"Coimbatore, Tamil Nadu",27.3,66,20,Alluvial,5.8,30,19,"Biopesticides (e.g., Bacillus thuringiensis)",15,24,29
+Thrips,Sugarcane,Seedling,Karnataka,26.1,69,14,Laterite,7.5,41,16,"Organic Fertilizers (e.g., Vermicompost)",19,13,15
+Coffee Borer,Coffee,Vegetative,Gujarat,25.3,79,14,Black Soil,7.1,43,26,Diatomaceous Earth Application,29,15,26
+Sugarcane Top Shoot Borer,Coffee,Maturity,"Nagpur, Maharashtra",29.7,83,5,Alluvial,7.5,47,33,"Companion Planting (e.g., Marigold for pest repulsion)",27,12,20
+Mango Hopper,Cotton,Seedling,"Hyderabad, Telangana",34.7,76,15,Alluvial,6.3,48,19,Diatomaceous Earth Application,22,13,26
+Helicoverpa Armigera (Cotton Bollworm),Coffee,Flowering,"Nagpur, Maharashtra",20.4,78,3,Loamy,6.7,45,31,Crop Rotation,15,20,31
+Mango Hopper,Coffee,Vegetative,Uttar Pradesh,26.3,42,10,Red Soil,7.3,18,34,Diatomaceous Earth Application,17,12,17
+Groundnut Leaf Miner,Coffee,Vegetative,"Bhopal, Madhya Pradesh",23.4,86,2,Red Soil,6.8,38,23,"Companion Planting (e.g., Marigold for pest repulsion)",27,14,31
+Coffee Borer,Rice,Vegetative,"Nagpur, Maharashtra",30.8,72,18,Black Soil,6.6,22,15,"Biopesticides (e.g., Bacillus thuringiensis)",23,10,22
+Chickpea Pod Borer,Cotton,Vegetative,"Jodhpur, Rajasthan",18.6,41,13,Laterite,6.7,26,35,"Companion Planting (e.g., Marigold for pest repulsion)",21,13,24
+Helicoverpa Armigera (Cotton Bollworm),Coconut,Seedling,"Coimbatore, Tamil Nadu",26.9,80,6,Alluvial,6,19,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,15,29
+Mealybugs,Groundnut,Flowering,"Ludhiana, Punjab",25.6,65,0,Laterite,7,46,35,Crop Rotation,17,15,30
+Chickpea Pod Borer,Rice,Flowering,"Vijayawada, Andhra Pradesh",19,64,18,Laterite,6.6,49,41,Neem Oil Spray,27,18,20
+Rice Hispa,Sugarcane,Vegetative,"Nagpur, Maharashtra",26.4,51,15,Black Soil,6.3,31,28,"Companion Planting (e.g., Marigold for pest repulsion)",19,13,18
+Diamondback Moth,Coffee,Flowering,"Maharashtra, Maharashtra",33.8,65,20,Black Soil,5.5,31,32,Crop Rotation,24,20,18
+Groundnut Leaf Miner,Coconut,Vegetative,"Karnataka, India",31.7,86,12,Loamy,6.9,42,44,"Companion Planting (e.g., Marigold for pest repulsion)",27,13,30
+Diamondback Moth,Groundnut,Seedling,"Bhopal, Madhya Pradesh",33.3,61,1,Sandy,6.6,40,24,Use of Pheromone Traps,19,20,34
+Diamondback Moth,Groundnut,Vegetative,Karnataka,24.4,86,4,Laterite,5.9,30,48,Sticky Traps for Flying Pests,16,24,32
+Yellow Stem Borer,Mango,Seedling,"Nagpur, Maharashtra",20.2,88,7,Alluvial,7.5,36,20,Soap Spray (Potassium-based),29,20,16
+Spotted Pod Borer,Chickpea,Seedling,"Coimbatore, Tamil Nadu",22.7,84,1,Laterite,5.7,48,36,Sticky Traps for Flying Pests,27,19,17
+Spotted Pod Borer,Rice,Vegetative,"Kerala, Kerala",29.1,89,13,Alluvial,5.8,45,43,"Biopesticides (e.g., Bacillus thuringiensis)",25,15,34
+Coffee Borer,Groundnut,Vegetative,"Mysore, Karnataka",23.1,73,16,Black Soil,6.5,25,26,Garlic-Chili Spray,18,11,18
+Mealybugs,Cotton,Vegetative,"Kolkata, West Bengal",21.5,83,20,Loamy,6.8,47,26,Neem Oil Spray,21,19,34
+Brown Planthopper (BPH),Rice,Vegetative,"Ludhiana, Punjab",28.3,61,15,Laterite,5.8,15,27,Adoption of Resistant Crop Varieties,28,15,28
+Sugarcane Top Shoot Borer,Cotton,Flowering,"Ludhiana, Punjab",33.3,40,2,Sandy,6.8,19,50,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",27,21,31
+Mango Hopper,Cotton,Vegetative,"Guntur, Andhra Pradesh",18.7,46,6,Red Soil,6.7,31,29,Diatomaceous Earth Application,16,18,27
+Coffee Borer,Chickpea,Maturity,Rajasthan,24,61,12,Black Soil,6.4,27,29,Adoption of Resistant Crop Varieties,18,12,26
+Yellow Stem Borer,Groundnut,Vegetative,West Bengal,31.8,52,1,Loamy,7,21,33,Adoption of Resistant Crop Varieties,25,18,23
+Groundnut Leaf Miner,Mango,Fruiting,Kerala,20,50,2,Black Soil,6.4,35,23,"Intercropping (e.g., Maize + Legumes)",15,16,31
+Coffee Borer,Rice,Flowering,"Nagpur, Maharashtra",19.7,77,16,Loamy,6.7,25,40,"Organic Fertilizers (e.g., Vermicompost)",25,11,22
+Coffee Borer,Groundnut,Seedling,"Kolkata, West Bengal",21.9,52,20,Black Soil,7.4,47,31,"Companion Planting (e.g., Marigold for pest repulsion)",22,21,23
+Chickpea Pod Borer,Rice,Vegetative,"Coimbatore, Tamil Nadu",18.6,51,7,Alluvial,5.7,40,27,Crop Rotation,19,14,32
+Brown Planthopper (BPH),Mango,Seedling,"Nagpur, Maharashtra",26.1,58,10,Black Soil,6.5,18,26,"Mulching (e.g., Straw Mulch)",27,20,27
+Spotted Pod Borer,Sugarcane,Flowering,"Gwalior, Madhya Pradesh",21.4,63,6,Alluvial,5.9,38,37,Neem Oil Spray,22,10,34
+Helicoverpa Armigera (Cotton Bollworm),Mango,Vegetative,"Chikmagalur, Karnataka",29.4,46,5,Red Soil,7.1,23,37,"Companion Planting (e.g., Marigold for pest repulsion)",25,21,21
+Sugarcane Top Shoot Borer,Groundnut,Vegetative,Karnataka,30.7,51,4,Red Soil,6.8,42,39,Adoption of Resistant Crop Varieties,20,16,24
+Yellow Stem Borer,Chickpea,Seedling,Assam,29.7,88,9,Black Soil,6.5,42,38,Diatomaceous Earth Application,27,17,28
+Groundnut Leaf Miner,Groundnut,Flowering,West Bengal,32,54,7,Red Soil,5.9,20,18,"Biopesticides (e.g., Bacillus thuringiensis)",25,14,27
+Groundnut Leaf Miner,Groundnut,Seedling,Rajasthan,21.7,71,10,Alluvial,5.9,48,40,Crop Rotation,19,23,29
+Helicoverpa Armigera (Cotton Bollworm),Sugarcane,Maturity,"Chikmagalur, Karnataka",20.2,60,12,Laterite,6.3,23,43,Sticky Traps for Flying Pests,28,22,30
+Diamondback Moth,Sugarcane,Vegetative,"Kozhikode, Kerala",32.2,41,9,Loamy,7.5,48,43,"Companion Planting (e.g., Marigold for pest repulsion)",21,24,29
+Mealybugs,Tomato,Flowering,West Bengal,19.1,76,0,Alluvial,6.8,43,32,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,15,25
+Groundnut Leaf Miner,Groundnut,Vegetative,"Nagpur, Maharashtra",19,67,16,Red Soil,7.1,44,39,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",22,16,29
+Coffee Borer,Sugarcane,Flowering,"Gandhinagar, Gujarat",34.6,81,1,Laterite,6.4,17,25,Soap Spray (Potassium-based),17,16,33
+White Grubs,Sugarcane,Vegetative,"Nagpur, Maharashtra",33.7,90,7,Laterite,5.9,36,34,Compost Tea Spraying,27,12,23
+Helicoverpa Armigera (Cotton Bollworm),Groundnut,Vegetative,"Nagpur, Maharashtra",24.4,52,2,Loamy,6.7,46,18,Garlic-Chili Spray,20,17,25
+Helicoverpa Armigera (Cotton Bollworm),Chickpea,Vegetative,"Kodaikanal, Tamil Nadu",30.7,87,2,Laterite,6.1,46,41,"Companion Planting (e.g., Marigold for pest repulsion)",26,12,31
+Groundnut Leaf Miner,Mango,Flowering,Assam,23.7,81,2,Red Soil,6.9,36,45,Diatomaceous Earth Application,18,10,15
+Rice Hispa,Rice,Maturity,Kerala,18.4,88,3,Alluvial,7.3,34,30,"Mulching (e.g., Straw Mulch)",28,17,17
+Groundnut Leaf Miner,Coffee,Vegetative,"Coimbatore, Tamil Nadu",19.6,80,18,Alluvial,7.3,17,26,"Organic Fertilizers (e.g., Vermicompost)",18,23,27
+Sugarcane Top Shoot Borer,Coffee,Flowering,Assam,24.9,74,5,Laterite,6.8,19,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,17,18
+Chickpea Pod Borer,Sugarcane,Seedling,West Bengal,28,84,5,Black Soil,6.3,31,15,Sticky Traps for Flying Pests,29,18,28
+Brown Planthopper (BPH),Sugarcane,Vegetative,"Kochi, Kerala",31.7,64,17,Alluvial,7.3,31,17,"Mulching (e.g., Straw Mulch)",16,18,26
+Mealybugs,Sugarcane,Flowering,"Coimbatore, Tamil Nadu",28,65,3,Loamy,6.9,35,19,Soap Spray (Potassium-based),23,10,28
+Coffee Borer,Mango,Flowering,"Gujarat, India",27.7,44,16,Alluvial,6.2,38,17,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",16,22,19
+Thrips,Coconut,Vegetative,"Kolar, Karnataka",23.8,75,12,Red Soil,6.4,32,24,"Organic Fertilizers (e.g., Vermicompost)",19,10,28
+Chickpea Pod Borer,Groundnut,Vegetative,Rajasthan,29.8,89,18,Loamy,6.4,32,45,Garlic-Chili Spray,21,15,22
+Chickpea Pod Borer,Mango,Maturity,"Kolar, Karnataka",25.5,54,7,Loamy,7.4,38,26,Garlic-Chili Spray,28,19,27
+Mango Hopper,Groundnut,Fruiting,"Ludhiana, Punjab",28.2,61,4,Loamy,5.6,50,37,"Companion Planting (e.g., Marigold for pest repulsion)",23,19,32
+Coffee Borer,Mango,Fruiting,Assam,31.8,87,11,Loamy,6.8,30,43,Sticky Traps for Flying Pests,22,11,25
+Sugarcane Top Shoot Borer,Tomato,Flowering,"Nashik, Maharashtra",31.4,70,19,Loamy,5.7,47,47,"Companion Planting (e.g., Marigold for pest repulsion)",19,15,27
+Sugarcane Top Shoot Borer,Cotton,Seedling,Gujarat,34.2,72,3,Red Soil,7.3,19,17,Adoption of Resistant Crop Varieties,24,11,27
+Yellow Stem Borer,Chickpea,Maturation,"Kodaikanal, Tamil Nadu",22.3,66,19,Red Soil,5.6,40,20,"Companion Planting (e.g., Marigold for pest repulsion)",19,19,20
+Thrips,Cotton,Fruiting,"Coimbatore, Tamil Nadu",30.2,52,7,Black Soil,6.1,48,31,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,13,27
+Groundnut Leaf Miner,Chickpea,Vegetative,Uttar Pradesh,27.5,46,1,Laterite,5.8,29,32,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",15,18,22
+Rice Hispa,Cotton,Seedling,"Coimbatore, Tamil Nadu",34.7,53,6,Red Soil,7,45,48,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,19,19
+Sugarcane Top Shoot Borer,Groundnut,Flowering,Assam,29.1,62,6,Red Soil,7.3,44,15,Crop Rotation,28,14,15
+Diamondback Moth,Groundnut,Fruiting,"Chikmagalur, Karnataka",29,59,20,Laterite,6.3,23,27,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,11,18
+Groundnut Leaf Miner,Rice,Vegetative,"Coimbatore, Tamil Nadu",27.8,52,15,Laterite,6.5,26,37,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,19,19
+Spotted Pod Borer,Chickpea,Vegetative,"Mysore, Karnataka",19.9,82,18,Red Soil,6.6,19,39,Compost Tea Spraying,26,22,33
+Groundnut Leaf Miner,Groundnut,Vegetative,Kerala,23,41,12,Red Soil,6.4,22,22,"Companion Planting (e.g., Marigold for pest repulsion)",29,17,21
+Mango Hopper,Cotton,Seedling,"Assam, Assam",28.6,58,3,Red Soil,6.7,48,21,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",16,24,31
+Helicoverpa Armigera (Cotton Bollworm),Mango,Vegetative,Karnataka,24.3,60,2,Red Soil,5.8,15,33,Compost Tea Spraying,16,14,15
+Mealybugs,Coffee,Vegetative,Gujarat,29.7,58,9,Red Soil,7.5,46,15,Release of Natural Predators (Ladybugs for Aphid Control),23,17,18
+Groundnut Leaf Miner,Rice,Fruiting,"Nashik, Maharashtra",27.8,54,0,Laterite,6.1,43,39,Diatomaceous Earth Application,16,21,21
+Coffee Borer,Tomato,Vegetative,"Kolkata, West Bengal",29.4,60,19,Red Soil,6.4,45,50,"Companion Planting (e.g., Marigold for pest repulsion)",28,22,27
+Diamondback Moth,Groundnut,Maturity,"Hyderabad, Telangana",25.3,54,18,Laterite,6.7,27,25,Garlic-Chili Spray,17,22,26
+Coffee Borer,Coconut,Vegetative,"Kodaikanal, Tamil Nadu",32.8,78,16,Loamy,7.2,46,36,Sticky Traps for Flying Pests,24,23,28
+Groundnut Leaf Miner,Tomato,Vegetative,"Coimbatore, Tamil Nadu",34.4,84,6,Black Soil,5.8,17,46,Crop Rotation,29,15,34
+Groundnut Leaf Miner,Tomato,Seedling,Gujarat,27,85,7,Red Soil,5.5,35,24,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,24,24
+Mealybugs,Groundnut,Maturity,"Jaipur, Rajasthan",31.7,54,16,Alluvial,7.3,32,25,"Companion Planting (e.g., Marigold for pest repulsion)",28,17,17
+Diamondback Moth,Cotton,Fruiting,"Kodaikanal, Tamil Nadu",23.3,43,9,Alluvial,6.5,18,36,Garlic-Chili Spray,27,14,18
+Groundnut Leaf Miner,Sugarcane,Vegetative,"West Bengal, West Bengal",24.2,42,1,Red Soil,5.9,30,17,"Biopesticides (e.g., Bacillus thuringiensis)",25,24,33
+Leafhoppers,Cotton,Flowering,"Bhagalpur, Bihar",30.4,76,6,Loamy,7.4,15,31,Compost Tea Spraying,21,19,29
+Coffee Borer,Rice,Flowering,"West Bengal, West Bengal",25.9,52,17,Loamy,5.5,30,42,"Organic Fertilizers (e.g., Vermicompost)",20,15,20
+Diamondback Moth,Groundnut,Fruiting,"Bhagalpur, Bihar",26,78,12,Black Soil,5.9,32,49,Garlic-Chili Spray,27,18,19
+Diamondback Moth,Cotton,Vegetative,"Patna, Bihar",19.5,45,18,Alluvial,6.3,21,30,Neem Oil Spray,25,21,18
+Coffee Borer,Sugarcane,Vegetative,Gujarat,33.1,40,9,Loamy,7,31,23,Neem Oil Spray,28,19,25
+White Grubs,Cotton,Vegetative,Gujarat,28,54,13,Laterite,5.6,41,27,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,21,33
+Brown Planthopper (BPH),Tomato,Vegetative,"Nagpur, Maharashtra",28.4,77,5,Loamy,6.2,22,35,Adoption of Resistant Crop Varieties,27,15,27
+Coffee Borer,Sugarcane,Maturity,"Anantapur, Andhra Pradesh",29.3,86,2,Red Soil,6.7,38,48,Diatomaceous Earth Application,16,20,15
+Chickpea Pod Borer,Chickpea,Flowering,Karnataka,34.6,59,7,Red Soil,5.8,42,18,"Mulching (e.g., Straw Mulch)",23,21,26
+Diamondback Moth,Chickpea,Vegetative,Gujarat,34.1,40,11,Black Soil,7,42,32,"Organic Fertilizers (e.g., Vermicompost)",29,24,28
+Mealybugs,Sugarcane,Vegetative,Gujarat,28.6,64,17,Alluvial,7.3,45,41,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",18,16,16
+Groundnut Leaf Miner,Tomato,Flowering,Tamil Nadu,23.9,75,16,Alluvial,7.4,28,40,Garlic-Chili Spray,26,16,34
+Diamondback Moth,Tomato,Flowering,"Coimbatore, Tamil Nadu",26.6,76,7,Loamy,6,32,28,Crop Rotation,26,24,24
+Coffee Borer,Chickpea,Vegetative,"Lucknow, Uttar Pradesh",32.3,78,12,Alluvial,5.9,24,43,"Mulching (e.g., Straw Mulch)",23,18,27
+Yellow Stem Borer,Cotton,Maturity,"Kodaikanal, Tamil Nadu",30.8,75,10,Alluvial,7,35,21,"Companion Planting (e.g., Marigold for pest repulsion)",20,20,19
+Chickpea Pod Borer,Groundnut,Vegetative,"Coimbatore, Tamil Nadu",25.6,45,17,Black Soil,5.6,46,24,Compost Tea Spraying,16,23,16
+Sugarcane Top Shoot Borer,Wheat,Vegetative,"Coimbatore, Tamil Nadu",25.1,43,19,Red Soil,6.1,37,26,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",27,18,24
+Brown Planthopper (BPH),Mango,Fruiting,"Gujarat, Gujarat",18.2,60,20,Red Soil,6.1,19,34,"Companion Planting (e.g., Marigold for pest repulsion)",29,12,20
+Sugarcane Top Shoot Borer,Coffee,Flowering,"Aurangabad, Maharashtra",19.2,90,3,Alluvial,5.8,39,42,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",18,20,28
+Chickpea Pod Borer,Coffee,Vegetative,Karnataka,19.6,57,3,Black Soil,6.2,33,36,"Companion Planting (e.g., Marigold for pest repulsion)",15,18,18
+Coffee Borer,Tomato,Flowering,Gujarat,30.4,63,10,Alluvial,7.1,43,36,Soap Spray (Potassium-based),22,16,32
+White Grubs,Mango,Flowering,"Guwahati, Assam",21.4,77,19,Alluvial,6.2,27,43,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",26,13,19
+Groundnut Leaf Miner,Groundnut,Vegetative,Kerala,23.3,86,5,Red Soil,7.1,47,22,"Biopesticides (e.g., Bacillus thuringiensis)",21,22,21
+Coffee Borer,Cotton,Seedling,Uttar Pradesh,34.8,78,19,Loamy,5.6,26,40,Neem Oil Spray,16,23,18
+Sugarcane Top Shoot Borer,Rice,Flowering,"Gujarat, Gujarat",26.8,56,2,Red Soil,6.1,29,16,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,16,19
+Diamondback Moth,Groundnut,Fruiting,"Chikmagalur, Karnataka",30.6,76,15,Alluvial,5.5,15,35,Crop Rotation,23,13,23
+Coffee Borer,Sugarcane,Vegetative,"Coimbatore, Tamil Nadu",32.1,79,20,Red Soil,6.5,44,40,"Companion Planting (e.g., Marigold for pest repulsion)",21,18,30
+Coffee Borer,Groundnut,Vegetative,"Gujarat, Gujarat",27,63,14,Red Soil,7.4,30,38,"Organic Fertilizers (e.g., Vermicompost)",22,10,18
+Rice Hispa,Tomato,Vegetative,"Kochi, Kerala",28.5,64,1,Alluvial,5.9,36,31,Crop Rotation,15,11,17
+Red Cotton Bug,Cotton,Seedling,West Bengal,25.1,72,2,Loamy,6.7,40,23,Sticky Traps for Flying Pests,24,14,31
+Thrips,Groundnut,Fruiting,"Gandhinagar, Gujarat",26.3,87,9,Black Soil,6.5,33,21,Use of Pheromone Traps,24,13,20
+Helicoverpa Armigera (Cotton Bollworm),Coffee,Flowering,"Ludhiana, Punjab",18.4,56,14,Laterite,5.7,26,43,Garlic-Chili Spray,19,12,19
+Brown Planthopper (BPH),Chickpea,Flowering,"Gujarat, Gujarat",27.3,42,0,Alluvial,6.3,19,19,"Companion Planting (e.g., Nasturtiums for pest repulsion)",16,24,19
+White Grubs,Tomato,Fruiting,"Chikmagalur, Karnataka",21.4,69,1,Alluvial,5.6,23,22,Neem Oil Spray,22,24,24
+Thrips,Coffee,Vegetative,Assam,34.1,40,0,Black Soil,6.7,47,15,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,19,28
+Helicoverpa Armigera (Cotton Bollworm),Sugarcane,Flowering,"Kolkata, West Bengal",24.9,81,16,Loamy,5.8,37,36,"Companion Planting (e.g., Marigold for pest repulsion)",28,23,24
+Sugarcane Top Shoot Borer,Sugarcane,Vegetative,"Ludhiana, Punjab",31.7,42,19,Red Soil,5.9,50,31,Compost Tea Spraying,20,22,32
+Groundnut Leaf Miner,Cotton,Vegetative,"Kodaikanal, Tamil Nadu",33.5,89,3,Red Soil,6.8,44,42,Soap Spray (Potassium-based),29,17,19
+Mango Hopper,Groundnut,Seedling,"Assam, Assam",23.2,87,20,Red Soil,7.5,45,33,Use of Pheromone Traps,23,20,17
+Groundnut Leaf Miner,Sugarcane,Flowering,Kerala,28.1,79,15,Black Soil,5.7,23,28,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,19,18
+Rice Hispa,Rice,Seedling,"Coimbatore, Tamil Nadu",23.7,74,1,Laterite,7.4,44,34,"Organic Fertilizers (e.g., Vermicompost)",20,22,33
+Coffee Borer,Sugarcane,Vegetative,Kerala,19.8,43,12,Laterite,6,20,36,"Companion Planting (e.g., Marigold for pest repulsion)",26,15,21
+Brown Planthopper (BPH),Rice,Flowering,"Kochi, Kerala",24.9,56,4,Alluvial,6.8,24,26,Soap Spray (Potassium-based),19,15,23
+Red Cotton Bug,Sugarcane,Vegetative,"Ludhiana, Punjab",34.5,74,13,Sandy,6.4,20,20,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,17,34
+Thrips,Rice,Seedling,"Punjab, Punjab",22,77,10,Alluvial,5.9,28,25,Compost Tea Spraying,26,12,33
+Red Cotton Bug,Cotton,Flowering,Rajasthan,20.6,57,15,Loamy,6,38,19,Crop Rotation,29,14,22
+Sugarcane Top Shoot Borer,Wheat,Vegetative,"Kodaikanal, Tamil Nadu",28.7,65,0,Red Soil,5.6,49,23,Sticky Traps for Flying Pests,20,24,30
+Coffee Borer,Cotton,Vegetative,Rajasthan,27.2,90,14,Laterite,6.8,19,22,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",21,17,17
+Groundnut Leaf Miner,Cotton,Flowering,Assam,20.6,51,9,Laterite,7,17,23,"Companion Planting (e.g., Marigold for pest repulsion)",21,23,23
+Red Cotton Bug,Rice,Flowering,"Bhagalpur, Bihar",29.2,49,0,Black Soil,7.1,36,43,"Mulching (e.g., Straw Mulch)",23,23,26
+Yellow Stem Borer,Sugarcane,Vegetative,"Gujarat, Gujarat",18,88,7,Black Soil,5.7,49,41,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,12,23
+Yellow Stem Borer,Coffee,Maturity,Rajasthan,22.1,58,10,Black Soil,6.5,20,34,Crop Rotation,23,16,15
+Sugarcane Top Shoot Borer,Sugarcane,Vegetative,"Coimbatore, Tamil Nadu",30.5,64,6,Black Soil,6.6,24,48,"Companion Planting (e.g., Marigold for pest repulsion)",21,22,18
+Chickpea Pod Borer,Groundnut,Vegetative,Punjab,29.8,64,18,Laterite,5.6,28,26,"Biopesticides (e.g., Bacillus thuringiensis)",15,14,15
+Spotted Pod Borer,Cotton,Flowering,"Nagpur, Maharashtra",19.9,69,5,Black Soil,6.8,38,18,Sticky Traps for Flying Pests,25,23,16
+Groundnut Leaf Miner,Cotton,Flowering,Kerala,33.9,75,2,Red Soil,7,17,30,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",28,23,20
+Groundnut Leaf Miner,Cotton,Fruiting,Rajasthan,28.2,73,1,Red Soil,6.4,23,29,Adoption of Resistant Crop Varieties,22,18,22
+Coffee Borer,Coffee,Vegetative,"Maharashtra, Maharashtra",31.7,48,10,Black Soil,5.7,23,34,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",24,19,20
+Yellow Stem Borer,Mango,Flowering,"Maharashtra, Maharashtra",21.3,87,1,Red Soil,6.7,20,19,"Mulching (e.g., Straw Mulch)",18,17,33
+Helicoverpa Armigera (Cotton Bollworm),Tomato,Seedling,"Coimbatore, Tamil Nadu",27.8,40,14,Loamy,5.9,47,41,"Mulching (e.g., Straw Mulch)",22,16,24
+Rice Hispa,Mango,Vegetative,"Coimbatore, Tamil Nadu",27.2,40,4,Laterite,7.5,33,25,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",24,18,27
+Coffee Borer,Tomato,Flowering,"Guntur, Andhra Pradesh",20.9,77,0,Alluvial,6.7,35,28,Neem Oil Spray,29,19,29
+Coffee Borer,Coconut,Maturity,"Chikmagalur, Karnataka",28,52,1,Alluvial,7.4,45,45,Crop Rotation,15,22,22
+Rice Hispa,Sugarcane,Vegetative,Rajasthan,34.6,56,4,Red Soil,6.7,34,49,Crop Rotation,25,13,22
+Groundnut Leaf Miner,Groundnut,Vegetative,"Punjab, Punjab",25,57,11,Alluvial,6.3,17,33,Crop Rotation,27,17,32
+Thrips,Coffee,Flowering,"Uttar Pradesh, Uttar Pradesh",22.5,78,6,Alluvial,5.9,24,42,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,13,20
+Brown Planthopper (BPH),Sugarcane,Seedling,"Coimbatore, Tamil Nadu",31.9,60,16,Laterite,6.7,43,15,Adoption of Resistant Crop Varieties,18,12,30
+Coffee Borer,Cotton,Flowering,"Chikmagalur, Karnataka",27.2,61,15,Black Soil,5.9,39,20,Neem Oil Spray,20,10,25
+Diamondback Moth,Mango,Flowering,"Gujarat, Gujarat",21.9,58,2,Black Soil,5.6,15,38,"Companion Planting (e.g., Marigold for pest repulsion)",28,20,29
+Coffee Borer,Sugarcane,Flowering,"Guwahati, Assam",33.6,87,12,Laterite,6.9,30,30,"Companion Planting (e.g., Nasturtiums for pest repulsion)",20,13,26
+Helicoverpa Armigera (Cotton Bollworm),Rice,Vegetative,"Nagpur, Maharashtra",20.4,89,14,Red Soil,7.1,19,27,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,23,18
+Mealybugs,Sugarcane,Vegetative,"Karnataka, Karnataka",33.1,79,14,Red Soil,6.1,42,39,"Mulching (e.g., Straw Mulch)",29,20,20
+Groundnut Leaf Miner,Mango,Vegetative,Assam,27.6,58,19,Loamy,7.3,42,49,Diatomaceous Earth Application,22,23,18
+Chickpea Pod Borer,Mango,Maturity,"Hyderabad, Telangana",21,78,3,Red Soil,7.3,16,32,Crop Rotation,29,20,28
+Coffee Borer,Groundnut,Seedling,"Hyderabad, Telangana",18.6,42,17,Red Soil,6,38,16,Neem Oil Spray,24,24,20
+Mealybugs,Chickpea,Flowering,"Kerala, Kerala",26,48,15,Laterite,7.5,23,19,Crop Rotation,19,17,28
+Yellow Stem Borer,Wheat,Seedling,"Kerala, Kerala",33.5,59,1,Alluvial,6.9,36,21,Neem Oil Spray,15,16,22
+Diamondback Moth,Groundnut,Vegetative,"Coimbatore, Tamil Nadu",24.5,89,20,Red Soil,6.3,16,46,"Mulching (e.g., Straw Mulch)",29,15,20
+Coffee Borer,Groundnut,Flowering,"Karnataka, India",19.1,79,2,Loamy,7.5,23,47,Crop Rotation,16,18,26
+Helicoverpa Armigera (Cotton Bollworm),Mango,Flowering,"Jaipur, Rajasthan",22.9,81,2,Alluvial,5.9,28,25,"Biopesticides (e.g., Bacillus thuringiensis)",24,24,20
+White Grubs,Groundnut,Vegetative,"Rajasthan, India",24.7,73,16,Alluvial,6.6,29,40,Sticky Traps for Flying Pests,16,21,20
+Red Cotton Bug,Cotton,Flowering,"Bhopal, Madhya Pradesh",18.5,85,17,Laterite,6,50,26,Garlic-Chili Spray,28,14,26
+Red Cotton Bug,Chickpea,Fruiting,West Bengal,20.5,85,3,Red Soil,7.3,28,18,Crop Rotation,21,15,18
+Diamondback Moth,Coffee,Vegetative,"Coimbatore, Tamil Nadu",18.3,45,13,Black Soil,6.4,30,35,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",20,11,23
+Sugarcane Top Shoot Borer,Sugarcane,Flowering,"Rajasthan, Rajasthan",21.7,75,8,Alluvial,5.6,39,17,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",16,17,23
+Groundnut Leaf Miner,Chickpea,Vegetative,"Aurangabad, Maharashtra",32.5,75,15,Alluvial,6.9,16,15,"Companion Planting (e.g., Marigold for pest repulsion)",23,12,16
+Chickpea Pod Borer,Groundnut,Vegetative,"Vijayawada, Andhra Pradesh",21.5,79,0,Alluvial,7,26,19,"Companion Planting (e.g., Marigold for pest repulsion)",24,20,30
+Helicoverpa Armigera (Cotton Bollworm),Chickpea,Seedling,"Aurangabad, Maharashtra",28,62,0,Laterite,7.3,41,27,Neem Oil Spray,18,16,22
+Diamondback Moth,Chickpea,Fruiting,"Nagpur, Maharashtra",19.7,67,17,Red Soil,5.9,36,33,Garlic-Chili Spray,17,24,33
+Groundnut Leaf Miner,Groundnut,Vegetative,"Rajasthan, India",20.2,65,14,Black Soil,6.5,42,44,Adoption of Resistant Crop Varieties,20,23,32
+Red Cotton Bug,Mango,Seedling,Gujarat,19.7,74,19,Alluvial,7,41,28,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",19,18,19
+Mango Hopper,Chickpea,Seedling,"Aurangabad, Maharashtra",27.6,71,18,Black Soil,7.4,37,41,"Biopesticides (e.g., Bacillus thuringiensis)",27,15,19
+Chickpea Pod Borer,Coffee,Vegetative,"Coimbatore, Tamil Nadu",25.2,90,11,Black Soil,7.2,23,25,"Release of Natural Predators (e.g., Ladybugs for Aphid Control)",23,22,32
+Diamondback Moth,Sugarcane,Vegetative,"Nagpur, Maharashtra",28.7,52,17,Black Soil,5.9,19,27,"Mulching (e.g., Straw Mulch)",15,18,34
+Sugarcane Top Shoot Borer,Cotton,Flowering,"Nagpur, Maharashtra",24.3,89,5,Loamy,5.5,26,45,"Companion Planting (e.g., Marigold for pest repulsion)",28,12,19
+Spotted Pod Borer,Coffee,Vegetative,"Kerala, Kerala",34.2,68,9,Alluvial,6.8,47,27,"Organic Fertilizers (e.g., Vermicompost)",16,22,17
+Chickpea Pod Borer,Coconut,Flowering,Kerala,23.2,89,6,Black Soil,6.6,47,21,"Mulching (e.g., Straw Mulch)",23,19,21
+Thrips,Mango,Maturation,Gujarat,34.5,48,3,Black Soil,6.1,30,30,"Organic Fertilizers (e.g., Vermicompost)",16,11,30
+Diamondback Moth,Sugarcane,Seedling,"Vijayawada, Andhra Pradesh",29.2,60,1,Laterite,6.8,21,30,Neem Oil Spray,18,21,18
+Diamondback Moth,Mango,Flowering,"Coimbatore, Tamil Nadu",31.4,55,9,Black Soil,5.8,48,33,Garlic-Chili Spray,29,16,23
